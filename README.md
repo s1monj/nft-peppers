@@ -5,6 +5,9 @@ GCA_002271885.2 Capsicum baccatum South Korea https://www.diark.org/diark/specie
 GCA_002271895.2 Capsicum chinense South Korea https://www.diark.org/diark/species_list/Capsicum_chinense
 GCF_000710875.1 Capsicum annuum China https://www.diark.org/diark/species_list/Capsicum_annuum_cultivar_Zunla-1
 
+Days to Harvest:
+http://pepperseeds.ca/index.php?route=information/information&information_id=14
+
 LOC107866321 chr1 AACTCACTTTGGCAGTCTCTC
 LOC107843860 chr1 GGCATCGTTCATGACACCTA
 LOC107859362 chr2 GGGAAGGGAAGAGAACCATAAA
