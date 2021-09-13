@@ -1,0 +1,74 @@
+BLASTN 2.12.0+
+
+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro A.
+Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J.
+Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of
+protein database search programs", Nucleic Acids Res. 25:3389-3402.
+
+
+
+Database: datasets/ncbi_dataset/data/GCF_000710875.1/chr1.fna
+           1 sequences; 301,019,445 total letters
+
+
+
+Query= 
+Length=20
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+NC_029977.1 Capsicum annuum cultivar Zunla-1 chromosome 1, Pepper...  28.2    4.7  
+
+
+>NC_029977.1 Capsicum annuum cultivar Zunla-1 chromosome 1, Pepper Zunla 1 
+Ref_v1.0, whole genome shotgun sequence
+Length=301019445
+
+ Score = 28.2 bits (14),  Expect = 4.7
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Minus
+
+Query  4          ATCGTTCATGACAC  17
+                  ||||||||||||||
+Sbjct  128153203  ATCGTTCATGACAC  128153190
+
+
+ Score = 28.2 bits (14),  Expect = 4.7
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Minus
+
+Query  1          GGCATCGTTCATGA  14
+                  ||||||||||||||
+Sbjct  135097719  GGCATCGTTCATGA  135097706
+
+
+ Score = 28.2 bits (14),  Expect = 4.7
+ Identities = 17/18 (94%), Gaps = 0/18 (0%)
+ Strand=Plus/Minus
+
+Query  3          CATCGTTCATGACACCTA  20
+                  |||| |||||||||||||
+Sbjct  232619325  CATCTTTCATGACACCTA  232619308
+
+
+
+Lambda      K        H
+    1.37    0.711     1.31 
+
+Gapped
+Lambda      K        H
+    1.37    0.711     1.31 
+
+Effective search space used: 1505097150
+
+
+  Database: datasets/ncbi_dataset/data/GCF_000710875.1/chr1.fna
+    Posted date:  Sep 10, 2021  3:05 PM
+  Number of letters in database: 301,019,445
+  Number of sequences in database:  1
+
+
+
+Matrix: blastn matrix 1 -3
+Gap Penalties: Existence: 5, Extension: 2

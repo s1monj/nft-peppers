@@ -1,0 +1,56 @@
+BLASTN 2.12.0+
+
+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro A.
+Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J.
+Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of
+protein database search programs", Nucleic Acids Res. 25:3389-3402.
+
+
+
+Database: datasets/ncbi_dataset/data/GCF_000710875.1/chr8.fna
+           1 sequences; 153,299,543 total letters
+
+
+
+Query= 
+Length=17
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+NC_029984.1 Capsicum annuum cultivar Zunla-1 chromosome 8, Pepper...  34.2    0.023
+
+
+>NC_029984.1 Capsicum annuum cultivar Zunla-1 chromosome 8, Pepper Zunla 1 
+Ref_v1.0, whole genome shotgun sequence
+Length=153299543
+
+ Score = 34.2 bits (17),  Expect = 0.023
+ Identities = 17/17 (100%), Gaps = 0/17 (0%)
+ Strand=Plus/Minus
+
+Query  1          TGGCGTGGCTGGATGAA  17
+                  |||||||||||||||||
+Sbjct  124110147  TGGCGTGGCTGGATGAA  124110131
+
+
+
+Lambda      K        H
+    1.37    0.711     1.31 
+
+Gapped
+Lambda      K        H
+    1.37    0.711     1.31 
+
+Effective search space used: 459898587
+
+
+  Database: datasets/ncbi_dataset/data/GCF_000710875.1/chr8.fna
+    Posted date:  Sep 10, 2021  3:05 PM
+  Number of letters in database: 153,299,543
+  Number of sequences in database:  1
+
+
+
+Matrix: blastn matrix 1 -3
+Gap Penalties: Existence: 5, Extension: 2

@@ -1,0 +1,74 @@
+BLASTN 2.12.0+
+
+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro A.
+Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J.
+Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of
+protein database search programs", Nucleic Acids Res. 25:3389-3402.
+
+
+
+Database: datasets/ncbi_dataset/data/GCA_002271895.2/chr8.fna
+           1 sequences; 195,914,817 total letters
+
+
+
+Query= 
+Length=17
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+CM008438.1 Capsicum chinense isolate PI159236 chromosome 8, whole...  34.2    0.030
+
+
+>CM008438.1 Capsicum chinense isolate PI159236 chromosome 8, whole genome 
+shotgun sequence
+Length=195914817
+
+ Score = 34.2 bits (17),  Expect = 0.030
+ Identities = 17/17 (100%), Gaps = 0/17 (0%)
+ Strand=Plus/Minus
+
+Query  1          TGGCGTGGCTGGATGAA  17
+                  |||||||||||||||||
+Sbjct  173801435  TGGCGTGGCTGGATGAA  173801419
+
+
+ Score = 28.2 bits (14),  Expect = 1.8
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Plus
+
+Query  1        TGGCGTGGCTGGAT  14
+                ||||||||||||||
+Sbjct  6669446  TGGCGTGGCTGGAT  6669459
+
+
+ Score = 28.2 bits (14),  Expect = 1.8
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Plus
+
+Query  1        TGGCGTGGCTGGAT  14
+                ||||||||||||||
+Sbjct  6677303  TGGCGTGGCTGGAT  6677316
+
+
+
+Lambda      K        H
+    1.37    0.711     1.31 
+
+Gapped
+Lambda      K        H
+    1.37    0.711     1.31 
+
+Effective search space used: 587744409
+
+
+  Database: datasets/ncbi_dataset/data/GCA_002271895.2/chr8.fna
+    Posted date:  Sep 10, 2021  3:04 PM
+  Number of letters in database: 195,914,817
+  Number of sequences in database:  1
+
+
+
+Matrix: blastn matrix 1 -3
+Gap Penalties: Existence: 5, Extension: 2

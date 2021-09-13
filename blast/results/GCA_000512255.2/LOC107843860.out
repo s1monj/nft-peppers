@@ -1,0 +1,56 @@
+BLASTN 2.12.0+
+
+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro A.
+Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J.
+Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of
+protein database search programs", Nucleic Acids Res. 25:3389-3402.
+
+
+
+Database: datasets/ncbi_dataset/data/GCA_000512255.2/chr1.fna
+           1 sequences; 309,102,287 total letters
+
+
+
+Query= 
+Length=20
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+CM008455.1 Capsicum annuum cultivar CM334 chromosome 1, whole gen...  28.2    4.9  
+
+
+>CM008455.1 Capsicum annuum cultivar CM334 chromosome 1, whole genome shotgun 
+sequence
+Length=309102287
+
+ Score = 28.2 bits (14),  Expect = 4.9
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Plus
+
+Query  4          ATCGTTCATGACAC  17
+                  ||||||||||||||
+Sbjct  104470853  ATCGTTCATGACAC  104470866
+
+
+
+Lambda      K        H
+    1.37    0.711     1.31 
+
+Gapped
+Lambda      K        H
+    1.37    0.711     1.31 
+
+Effective search space used: 1545511360
+
+
+  Database: datasets/ncbi_dataset/data/GCA_000512255.2/chr1.fna
+    Posted date:  Sep 10, 2021  3:01 PM
+  Number of letters in database: 309,102,287
+  Number of sequences in database:  1
+
+
+
+Matrix: blastn matrix 1 -3
+Gap Penalties: Existence: 5, Extension: 2

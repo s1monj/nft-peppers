@@ -1,0 +1,179 @@
+BLASTN 2.12.0+
+
+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro A.
+Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J.
+Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of
+protein database search programs", Nucleic Acids Res. 25:3389-3402.
+
+
+
+Database: datasets/ncbi_dataset/data/GCA_011745845.1/GCA_011745845.1_SNU_ECW_1
+.0_genomic.fna
+           44,080 sequences; 2,879,589,612 total letters
+
+
+
+Query= 
+Length=22
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+VYZY01001067.1 Capsicum annuum cultivar ECW scaffold3397, whole g...  44.1    8e-04
+VYZY01012745.1 Capsicum annuum cultivar ECW scaffold97588, whole ...  34.2    0.73 
+VYZY01004465.1 Capsicum annuum cultivar ECW scaffold16900, whole ...  34.2    0.73 
+VYZY01006406.1 Capsicum annuum cultivar ECW scaffold27645, whole ...  34.2    0.73 
+VYZY01001367.1 Capsicum annuum cultivar ECW scaffold4478, whole g...  34.2    0.73 
+VYZY01014877.1 Capsicum annuum cultivar ECW scaffold136749, whole...  32.2    2.9  
+VYZY01007567.1 Capsicum annuum cultivar ECW scaffold35864, whole ...  32.2    2.9  
+VYZY01006029.1 Capsicum annuum cultivar ECW scaffold25281, whole ...  32.2    2.9  
+VYZY01001472.1 Capsicum annuum cultivar ECW scaffold4829, whole g...  32.2    2.9  
+
+
+>VYZY01001067.1 Capsicum annuum cultivar ECW scaffold3397, whole genome shotgun 
+sequence
+Length=261055
+
+ Score = 44.1 bits (22),  Expect = 8e-04
+ Identities = 22/22 (100%), Gaps = 0/22 (0%)
+ Strand=Plus/Minus
+
+Query  1       AGAGGTAGAGAGAGCACAAGAG  22
+               ||||||||||||||||||||||
+Sbjct  177949  AGAGGTAGAGAGAGCACAAGAG  177928
+
+
+>VYZY01012745.1 Capsicum annuum cultivar ECW scaffold97588, whole genome shotgun 
+sequence
+Length=113694
+
+ Score = 34.2 bits (17),  Expect = 0.73
+ Identities = 17/17 (100%), Gaps = 0/17 (0%)
+ Strand=Plus/Minus
+
+Query  6      TAGAGAGAGCACAAGAG  22
+              |||||||||||||||||
+Sbjct  94910  TAGAGAGAGCACAAGAG  94894
+
+
+>VYZY01004465.1 Capsicum annuum cultivar ECW scaffold16900, whole genome shotgun 
+sequence
+Length=814236
+
+ Score = 34.2 bits (17),  Expect = 0.73
+ Identities = 17/17 (100%), Gaps = 0/17 (0%)
+ Strand=Plus/Minus
+
+Query  6       TAGAGAGAGCACAAGAG  22
+               |||||||||||||||||
+Sbjct  509861  TAGAGAGAGCACAAGAG  509845
+
+
+>VYZY01006406.1 Capsicum annuum cultivar ECW scaffold27645, whole genome shotgun 
+sequence
+Length=914212
+
+ Score = 34.2 bits (17),  Expect = 0.73
+ Identities = 17/17 (100%), Gaps = 0/17 (0%)
+ Strand=Plus/Plus
+
+Query  3       AGGTAGAGAGAGCACAA  19
+               |||||||||||||||||
+Sbjct  521071  AGGTAGAGAGAGCACAA  521087
+
+
+ Score = 32.2 bits (16),  Expect = 2.9
+ Identities = 16/16 (100%), Gaps = 0/16 (0%)
+ Strand=Plus/Plus
+
+Query  1       AGAGGTAGAGAGAGCA  16
+               ||||||||||||||||
+Sbjct  519983  AGAGGTAGAGAGAGCA  519998
+
+
+>VYZY01001367.1 Capsicum annuum cultivar ECW scaffold4478, whole genome shotgun 
+sequence
+Length=702843
+
+ Score = 34.2 bits (17),  Expect = 0.73
+ Identities = 17/17 (100%), Gaps = 0/17 (0%)
+ Strand=Plus/Plus
+
+Query  1       AGAGGTAGAGAGAGCAC  17
+               |||||||||||||||||
+Sbjct  119022  AGAGGTAGAGAGAGCAC  119038
+
+
+>VYZY01014877.1 Capsicum annuum cultivar ECW scaffold136749, whole genome shotgun 
+sequence
+Length=211741
+
+ Score = 32.2 bits (16),  Expect = 2.9
+ Identities = 19/20 (95%), Gaps = 0/20 (0%)
+ Strand=Plus/Minus
+
+Query  3       AGGTAGAGAGAGCACAAGAG  22
+               |||||||| |||||||||||
+Sbjct  140066  AGGTAGAGCGAGCACAAGAG  140047
+
+
+>VYZY01007567.1 Capsicum annuum cultivar ECW scaffold35864, whole genome shotgun 
+sequence
+Length=910117
+
+ Score = 32.2 bits (16),  Expect = 2.9
+ Identities = 16/16 (100%), Gaps = 0/16 (0%)
+ Strand=Plus/Minus
+
+Query  7       AGAGAGAGCACAAGAG  22
+               ||||||||||||||||
+Sbjct  243252  AGAGAGAGCACAAGAG  243237
+
+
+>VYZY01006029.1 Capsicum annuum cultivar ECW scaffold25281, whole genome shotgun 
+sequence
+Length=571043
+
+ Score = 32.2 bits (16),  Expect = 2.9
+ Identities = 16/16 (100%), Gaps = 0/16 (0%)
+ Strand=Plus/Minus
+
+Query  7       AGAGAGAGCACAAGAG  22
+               ||||||||||||||||
+Sbjct  302004  AGAGAGAGCACAAGAG  301989
+
+
+>VYZY01001472.1 Capsicum annuum cultivar ECW scaffold4829, whole genome shotgun 
+sequence
+Length=1030524
+
+ Score = 32.2 bits (16),  Expect = 2.9
+ Identities = 16/16 (100%), Gaps = 0/16 (0%)
+ Strand=Plus/Minus
+
+Query  1       AGAGGTAGAGAGAGCA  16
+               ||||||||||||||||
+Sbjct  464599  AGAGGTAGAGAGAGCA  464584
+
+
+
+Lambda      K        H
+    1.37    0.711     1.31 
+
+Gapped
+Lambda      K        H
+    1.37    0.711     1.31 
+
+Effective search space used: 14394201260
+
+
+  Database: datasets/ncbi_dataset/data/GCA_011745845.1/GCA_011745845.1_SNU_ECW_1
+.0_genomic.fna
+    Posted date:  Sep 10, 2021  4:01 PM
+  Number of letters in database: 2,879,589,612
+  Number of sequences in database:  44,080
+
+
+
+Matrix: blastn matrix 1 -3
+Gap Penalties: Existence: 5, Extension: 2

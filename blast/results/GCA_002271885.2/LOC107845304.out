@@ -1,0 +1,245 @@
+BLASTN 2.12.0+
+
+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro A.
+Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J.
+Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of
+protein database search programs", Nucleic Acids Res. 25:3389-3402.
+
+
+
+Database: datasets/ncbi_dataset/data/GCA_002271885.2/chr10.fna
+           1 sequences; 229,738,584 total letters
+
+
+
+Query= 
+Length=22
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+CM008452.1 Capsicum baccatum isolate PBC81 chromosome 10, whole g...  30.2    1.3  
+
+
+>CM008452.1 Capsicum baccatum isolate PBC81 chromosome 10, whole genome shotgun 
+sequence
+Length=229738584
+
+ Score = 30.2 bits (15),  Expect = 1.3
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Plus
+
+Query  6         TTAATGCAACTGATG  20
+                 |||||||||||||||
+Sbjct  46011732  TTAATGCAACTGATG  46011746
+
+
+ Score = 30.2 bits (15),  Expect = 1.3
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Minus
+
+Query  7          TAATGCAACTGATGT  21
+                  |||||||||||||||
+Sbjct  102801755  TAATGCAACTGATGT  102801741
+
+
+ Score = 30.2 bits (15),  Expect = 1.3
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Minus
+
+Query  7          TAATGCAACTGATGT  21
+                  |||||||||||||||
+Sbjct  102802013  TAATGCAACTGATGT  102801999
+
+
+ Score = 30.2 bits (15),  Expect = 1.3
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Plus
+
+Query  5          CTTAATGCAACTGAT  19
+                  |||||||||||||||
+Sbjct  127840777  CTTAATGCAACTGAT  127840791
+
+
+ Score = 30.2 bits (15),  Expect = 1.3
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Plus
+
+Query  6          TTAATGCAACTGATG  20
+                  |||||||||||||||
+Sbjct  181460901  TTAATGCAACTGATG  181460915
+
+
+ Score = 30.2 bits (15),  Expect = 1.3
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Plus
+
+Query  6          TTAATGCAACTGATG  20
+                  |||||||||||||||
+Sbjct  191251986  TTAATGCAACTGATG  191252000
+
+
+ Score = 30.2 bits (15),  Expect = 1.3
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Plus
+
+Query  5          CTTAATGCAACTGAT  19
+                  |||||||||||||||
+Sbjct  192632652  CTTAATGCAACTGAT  192632666
+
+
+ Score = 30.2 bits (15),  Expect = 1.3
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Minus
+
+Query  7          TAATGCAACTGATGT  21
+                  |||||||||||||||
+Sbjct  210230376  TAATGCAACTGATGT  210230362
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Plus
+
+Query  1         GCAGCTTAATGCAA  14
+                 ||||||||||||||
+Sbjct  11458012  GCAGCTTAATGCAA  11458025
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Plus
+
+Query  5         CTTAATGCAACTGA  18
+                 ||||||||||||||
+Sbjct  27701780  CTTAATGCAACTGA  27701793
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Minus
+
+Query  8         AATGCAACTGATGT  21
+                 ||||||||||||||
+Sbjct  51003538  AATGCAACTGATGT  51003525
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Minus
+
+Query  8         AATGCAACTGATGT  21
+                 ||||||||||||||
+Sbjct  63768486  AATGCAACTGATGT  63768473
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Plus
+
+Query  6         TTAATGCAACTGAT  19
+                 ||||||||||||||
+Sbjct  67201376  TTAATGCAACTGAT  67201389
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Minus
+
+Query  8         AATGCAACTGATGT  21
+                 ||||||||||||||
+Sbjct  95724958  AATGCAACTGATGT  95724945
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Plus
+
+Query  8         AATGCAACTGATGT  21
+                 ||||||||||||||
+Sbjct  97324566  AATGCAACTGATGT  97324579
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Plus
+
+Query  9          ATGCAACTGATGTC  22
+                  ||||||||||||||
+Sbjct  138561951  ATGCAACTGATGTC  138561964
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Plus
+
+Query  6          TTAATGCAACTGAT  19
+                  ||||||||||||||
+Sbjct  164001450  TTAATGCAACTGAT  164001463
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Minus
+
+Query  5          CTTAATGCAACTGA  18
+                  ||||||||||||||
+Sbjct  177064522  CTTAATGCAACTGA  177064509
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Plus
+
+Query  3          AGCTTAATGCAACT  16
+                  ||||||||||||||
+Sbjct  178645327  AGCTTAATGCAACT  178645340
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Minus
+
+Query  8          AATGCAACTGATGT  21
+                  ||||||||||||||
+Sbjct  189262269  AATGCAACTGATGT  189262256
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Minus
+
+Query  8          AATGCAACTGATGT  21
+                  ||||||||||||||
+Sbjct  208552460  AATGCAACTGATGT  208552447
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Plus
+
+Query  4          GCTTAATGCAACTG  17
+                  ||||||||||||||
+Sbjct  210198130  GCTTAATGCAACTG  210198143
+
+
+
+Lambda      K        H
+    1.37    0.711     1.31 
+
+Gapped
+Lambda      K        H
+    1.37    0.711     1.31 
+
+Effective search space used: 1608169983
+
+
+  Database: datasets/ncbi_dataset/data/GCA_002271885.2/chr10.fna
+    Posted date:  Sep 10, 2021  3:03 PM
+  Number of letters in database: 229,738,584
+  Number of sequences in database:  1
+
+
+
+Matrix: blastn matrix 1 -3
+Gap Penalties: Existence: 5, Extension: 2

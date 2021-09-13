@@ -1,0 +1,119 @@
+BLASTN 2.12.0+
+
+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro A.
+Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J.
+Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of
+protein database search programs", Nucleic Acids Res. 25:3389-3402.
+
+
+
+Database: datasets/ncbi_dataset/data/GCF_000710875.1/chr10.fna
+           1 sequences; 205,736,368 total letters
+
+
+
+Query= 
+Length=23
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+NC_029986.1 Capsicum annuum cultivar Zunla-1 chromosome 10, Peppe...  46.1    2e-05
+
+
+>NC_029986.1 Capsicum annuum cultivar Zunla-1 chromosome 10, Pepper Zunla 
+1 Ref_v1.0, whole genome shotgun sequence
+Length=205736368
+
+ Score = 46.1 bits (23),  Expect = 2e-05
+ Identities = 23/23 (100%), Gaps = 0/23 (0%)
+ Strand=Plus/Plus
+
+Query  1         TACCACGAGTATCTGAGGCTAAA  23
+                 |||||||||||||||||||||||
+Sbjct  42125649  TACCACGAGTATCTGAGGCTAAA  42125671
+
+
+ Score = 30.2 bits (15),  Expect = 1.3
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Minus
+
+Query  9          GTATCTGAGGCTAAA  23
+                  |||||||||||||||
+Sbjct  102450503  GTATCTGAGGCTAAA  102450489
+
+
+ Score = 28.2 bits (14),  Expect = 5.2
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Plus
+
+Query  8         AGTATCTGAGGCTA  21
+                 ||||||||||||||
+Sbjct  39330918  AGTATCTGAGGCTA  39330931
+
+
+ Score = 28.2 bits (14),  Expect = 5.2
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Plus
+
+Query  2         ACCACGAGTATCTG  15
+                 ||||||||||||||
+Sbjct  45989662  ACCACGAGTATCTG  45989675
+
+
+ Score = 28.2 bits (14),  Expect = 5.2
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Plus
+
+Query  10         TATCTGAGGCTAAA  23
+                  ||||||||||||||
+Sbjct  102235617  TATCTGAGGCTAAA  102235630
+
+
+ Score = 28.2 bits (14),  Expect = 5.2
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Plus
+
+Query  9          GTATCTGAGGCTAA  22
+                  ||||||||||||||
+Sbjct  137317656  GTATCTGAGGCTAA  137317669
+
+
+ Score = 28.2 bits (14),  Expect = 5.2
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Minus
+
+Query  8          AGTATCTGAGGCTA  21
+                  ||||||||||||||
+Sbjct  160007208  AGTATCTGAGGCTA  160007195
+
+
+ Score = 28.2 bits (14),  Expect = 5.2
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Minus
+
+Query  10         TATCTGAGGCTAAA  23
+                  ||||||||||||||
+Sbjct  174087339  TATCTGAGGCTAAA  174087326
+
+
+
+Lambda      K        H
+    1.37    0.711     1.31 
+
+Gapped
+Lambda      K        H
+    1.37    0.711     1.31 
+
+Effective search space used: 1645890824
+
+
+  Database: datasets/ncbi_dataset/data/GCF_000710875.1/chr10.fna
+    Posted date:  Sep 10, 2021  3:05 PM
+  Number of letters in database: 205,736,368
+  Number of sequences in database:  1
+
+
+
+Matrix: blastn matrix 1 -3
+Gap Penalties: Existence: 5, Extension: 2

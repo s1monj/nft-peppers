@@ -1,0 +1,1318 @@
+BLASTN 2.12.0+
+
+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro A.
+Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J.
+Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of
+protein database search programs", Nucleic Acids Res. 25:3389-3402.
+
+
+
+Database: datasets/ncbi_dataset/data/GCA_011745845.1/GCA_011745845.1_SNU_ECW_1
+.0_genomic.fna
+           44,080 sequences; 2,879,589,612 total letters
+
+
+
+Query= 
+Length=21
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+VYZY01004774.1 Capsicum annuum cultivar ECW scaffold18237, whole ...  42.1    0.002
+VYZY01005792.1 Capsicum annuum cultivar ECW scaffold23688, whole ...  34.2    0.59 
+VYZY01013324.1 Capsicum annuum cultivar ECW scaffold107091, whole...  32.2    2.3  
+VYZY01004107.1 Capsicum annuum cultivar ECW scaffold15286, whole ...  32.2    2.3  
+VYZY01003465.1 Capsicum annuum cultivar ECW scaffold12490, whole ...  32.2    2.3  
+VYZY01003036.1 Capsicum annuum cultivar ECW scaffold10637, whole ...  32.2    2.3  
+VYZY01013858.1 Capsicum annuum cultivar ECW scaffold117074, whole...  32.2    2.3  
+VYZY01012772.1 Capsicum annuum cultivar ECW scaffold97982, whole ...  32.2    2.3  
+VYZY01009827.1 Capsicum annuum cultivar ECW scaffold57351, whole ...  32.2    2.3  
+VYZY01007162.1 Capsicum annuum cultivar ECW scaffold32923, whole ...  32.2    2.3  
+VYZY01001867.1 Capsicum annuum cultivar ECW scaffold6164, whole g...  32.2    2.3  
+VYZY01035670.1 Capsicum annuum cultivar ECW scaffold1028558, whol...  30.2    9.2  
+VYZY01032644.1 Capsicum annuum cultivar ECW scaffold829108, whole...  30.2    9.2  
+VYZY01021465.1 Capsicum annuum cultivar ECW scaffold315707, whole...  30.2    9.2  
+VYZY01016781.1 Capsicum annuum cultivar ECW scaffold178672, whole...  30.2    9.2  
+VYZY01016220.1 Capsicum annuum cultivar ECW scaffold165055, whole...  30.2    9.2  
+VYZY01010482.1 Capsicum annuum cultivar ECW scaffold65056, whole ...  30.2    9.2  
+VYZY01010421.1 Capsicum annuum cultivar ECW scaffold64404, whole ...  30.2    9.2  
+VYZY01010014.1 Capsicum annuum cultivar ECW scaffold59539, whole ...  30.2    9.2  
+VYZY01009448.1 Capsicum annuum cultivar ECW scaffold53349, whole ...  30.2    9.2  
+VYZY01008089.1 Capsicum annuum cultivar ECW scaffold40205, whole ...  30.2    9.2  
+VYZY01008015.1 Capsicum annuum cultivar ECW scaffold39579, whole ...  30.2    9.2  
+VYZY01007426.1 Capsicum annuum cultivar ECW scaffold34690, whole ...  30.2    9.2  
+VYZY01006934.1 Capsicum annuum cultivar ECW scaffold31275, whole ...  30.2    9.2  
+VYZY01006487.1 Capsicum annuum cultivar ECW scaffold28271, whole ...  30.2    9.2  
+VYZY01006009.1 Capsicum annuum cultivar ECW scaffold25120, whole ...  30.2    9.2  
+VYZY01005692.1 Capsicum annuum cultivar ECW scaffold23199, whole ...  30.2    9.2  
+VYZY01005644.1 Capsicum annuum cultivar ECW scaffold22914, whole ...  30.2    9.2  
+VYZY01005149.1 Capsicum annuum cultivar ECW scaffold20133, whole ...  30.2    9.2  
+VYZY01005054.1 Capsicum annuum cultivar ECW scaffold19631, whole ...  30.2    9.2  
+VYZY01004959.1 Capsicum annuum cultivar ECW scaffold19178, whole ...  30.2    9.2  
+VYZY01004621.1 Capsicum annuum cultivar ECW scaffold17359, whole ...  30.2    9.2  
+VYZY01004100.1 Capsicum annuum cultivar ECW scaffold15259, whole ...  30.2    9.2  
+VYZY01003746.1 Capsicum annuum cultivar ECW scaffold13621, whole ...  30.2    9.2  
+VYZY01003404.1 Capsicum annuum cultivar ECW scaffold12256, whole ...  30.2    9.2  
+VYZY01003305.1 Capsicum annuum cultivar ECW scaffold11754, whole ...  30.2    9.2  
+VYZY01003205.1 Capsicum annuum cultivar ECW scaffold11298, whole ...  30.2    9.2  
+VYZY01002977.1 Capsicum annuum cultivar ECW scaffold10367, whole ...  30.2    9.2  
+VYZY01002903.1 Capsicum annuum cultivar ECW scaffold9985, whole g...  30.2    9.2  
+VYZY01002711.1 Capsicum annuum cultivar ECW scaffold9422, whole g...  30.2    9.2  
+VYZY01002576.1 Capsicum annuum cultivar ECW scaffold8987, whole g...  30.2    9.2  
+VYZY01002196.1 Capsicum annuum cultivar ECW scaffold7344, whole g...  30.2    9.2  
+VYZY01002157.1 Capsicum annuum cultivar ECW scaffold7226, whole g...  30.2    9.2  
+VYZY01002153.1 Capsicum annuum cultivar ECW scaffold7213, whole g...  30.2    9.2  
+VYZY01002132.1 Capsicum annuum cultivar ECW scaffold7161, whole g...  30.2    9.2  
+VYZY01002000.1 Capsicum annuum cultivar ECW scaffold6686, whole g...  30.2    9.2  
+VYZY01001584.1 Capsicum annuum cultivar ECW scaffold5204, whole g...  30.2    9.2  
+VYZY01001492.1 Capsicum annuum cultivar ECW scaffold4908, whole g...  30.2    9.2  
+VYZY01001325.1 Capsicum annuum cultivar ECW scaffold4329, whole g...  30.2    9.2  
+VYZY01000991.1 Capsicum annuum cultivar ECW scaffold3196, whole g...  30.2    9.2  
+VYZY01000960.1 Capsicum annuum cultivar ECW scaffold3085, whole g...  30.2    9.2  
+VYZY01035033.1 Capsicum annuum cultivar ECW scaffold982554, whole...  30.2    9.2  
+VYZY01022505.1 Capsicum annuum cultivar ECW scaffold353626, whole...  30.2    9.2  
+VYZY01020966.1 Capsicum annuum cultivar ECW scaffold299678, whole...  30.2    9.2  
+VYZY01020528.1 Capsicum annuum cultivar ECW scaffold286008, whole...  30.2    9.2  
+VYZY01017879.1 Capsicum annuum cultivar ECW scaffold207001, whole...  30.2    9.2  
+VYZY01017081.1 Capsicum annuum cultivar ECW scaffold186836, whole...  30.2    9.2  
+VYZY01013154.1 Capsicum annuum cultivar ECW scaffold103833, whole...  30.2    9.2  
+VYZY01011229.1 Capsicum annuum cultivar ECW scaffold74231, whole ...  30.2    9.2  
+VYZY01009344.1 Capsicum annuum cultivar ECW scaffold52174, whole ...  30.2    9.2  
+VYZY01008612.1 Capsicum annuum cultivar ECW scaffold45289, whole ...  30.2    9.2  
+VYZY01008364.1 Capsicum annuum cultivar ECW scaffold42997, whole ...  30.2    9.2  
+VYZY01008268.1 Capsicum annuum cultivar ECW scaffold41916, whole ...  30.2    9.2  
+VYZY01008050.1 Capsicum annuum cultivar ECW scaffold39864, whole ...  30.2    9.2  
+VYZY01007414.1 Capsicum annuum cultivar ECW scaffold34604, whole ...  30.2    9.2  
+VYZY01007268.1 Capsicum annuum cultivar ECW scaffold33486, whole ...  30.2    9.2  
+VYZY01006954.1 Capsicum annuum cultivar ECW scaffold31405, whole ...  30.2    9.2  
+VYZY01006894.1 Capsicum annuum cultivar ECW scaffold30934, whole ...  30.2    9.2  
+VYZY01006727.1 Capsicum annuum cultivar ECW scaffold29764, whole ...  30.2    9.2  
+VYZY01006570.1 Capsicum annuum cultivar ECW scaffold28854, whole ...  30.2    9.2  
+VYZY01006423.1 Capsicum annuum cultivar ECW scaffold27773, whole ...  30.2    9.2  
+VYZY01006356.1 Capsicum annuum cultivar ECW scaffold27305, whole ...  30.2    9.2  
+VYZY01006275.1 Capsicum annuum cultivar ECW scaffold26752, whole ...  30.2    9.2  
+VYZY01006079.1 Capsicum annuum cultivar ECW scaffold25616, whole ...  30.2    9.2  
+VYZY01005774.1 Capsicum annuum cultivar ECW scaffold23641, whole ...  30.2    9.2  
+VYZY01005710.1 Capsicum annuum cultivar ECW scaffold23273, whole ...  30.2    9.2  
+VYZY01005565.1 Capsicum annuum cultivar ECW scaffold22373, whole ...  30.2    9.2  
+VYZY01005439.1 Capsicum annuum cultivar ECW scaffold21720, whole ...  30.2    9.2  
+VYZY01005198.1 Capsicum annuum cultivar ECW scaffold20447, whole ...  30.2    9.2  
+VYZY01004383.1 Capsicum annuum cultivar ECW scaffold16485, whole ...  30.2    9.2  
+VYZY01004287.1 Capsicum annuum cultivar ECW scaffold16063, whole ...  30.2    9.2  
+VYZY01003504.1 Capsicum annuum cultivar ECW scaffold12679, whole ...  30.2    9.2  
+VYZY01003450.1 Capsicum annuum cultivar ECW scaffold12453, whole ...  30.2    9.2  
+VYZY01002425.1 Capsicum annuum cultivar ECW scaffold8385, whole g...  30.2    9.2  
+VYZY01002376.1 Capsicum annuum cultivar ECW scaffold8202, whole g...  30.2    9.2  
+VYZY01002261.1 Capsicum annuum cultivar ECW scaffold7641, whole g...  30.2    9.2  
+VYZY01002207.1 Capsicum annuum cultivar ECW scaffold7374, whole g...  30.2    9.2  
+VYZY01001892.1 Capsicum annuum cultivar ECW scaffold6274, whole g...  30.2    9.2  
+VYZY01001408.1 Capsicum annuum cultivar ECW scaffold4621, whole g...  30.2    9.2  
+VYZY01000627.1 Capsicum annuum cultivar ECW scaffold2014, whole g...  30.2    9.2  
+VYZY01000461.1 Capsicum annuum cultivar ECW scaffold1470, whole g...  30.2    9.2  
+
+
+>VYZY01004774.1 Capsicum annuum cultivar ECW scaffold18237, whole genome shotgun 
+sequence
+Length=246209
+
+ Score = 42.1 bits (21),  Expect = 0.002
+ Identities = 21/21 (100%), Gaps = 0/21 (0%)
+ Strand=Plus/Plus
+
+Query  1       AGTGGAAGAACTTGGCATAGG  21
+               |||||||||||||||||||||
+Sbjct  217446  AGTGGAAGAACTTGGCATAGG  217466
+
+
+>VYZY01005792.1 Capsicum annuum cultivar ECW scaffold23688, whole genome shotgun 
+sequence
+Length=1106532
+
+ Score = 34.2 bits (17),  Expect = 0.59
+ Identities = 17/17 (100%), Gaps = 0/17 (0%)
+ Strand=Plus/Minus
+
+Query  3       TGGAAGAACTTGGCATA  19
+               |||||||||||||||||
+Sbjct  170588  TGGAAGAACTTGGCATA  170572
+
+
+>VYZY01013324.1 Capsicum annuum cultivar ECW scaffold107091, whole genome shotgun 
+sequence
+Length=116658
+
+ Score = 32.2 bits (16),  Expect = 2.3
+ Identities = 16/16 (100%), Gaps = 0/16 (0%)
+ Strand=Plus/Plus
+
+Query  3      TGGAAGAACTTGGCAT  18
+              ||||||||||||||||
+Sbjct  28048  TGGAAGAACTTGGCAT  28063
+
+
+>VYZY01004107.1 Capsicum annuum cultivar ECW scaffold15286, whole genome shotgun 
+sequence
+Length=445046
+
+ Score = 32.2 bits (16),  Expect = 2.3
+ Identities = 16/16 (100%), Gaps = 0/16 (0%)
+ Strand=Plus/Plus
+
+Query  3       TGGAAGAACTTGGCAT  18
+               ||||||||||||||||
+Sbjct  332581  TGGAAGAACTTGGCAT  332596
+
+
+>VYZY01003465.1 Capsicum annuum cultivar ECW scaffold12490, whole genome shotgun 
+sequence
+Length=423621
+
+ Score = 32.2 bits (16),  Expect = 2.3
+ Identities = 16/16 (100%), Gaps = 0/16 (0%)
+ Strand=Plus/Plus
+
+Query  3       TGGAAGAACTTGGCAT  18
+               ||||||||||||||||
+Sbjct  350912  TGGAAGAACTTGGCAT  350927
+
+
+>VYZY01003036.1 Capsicum annuum cultivar ECW scaffold10637, whole genome shotgun 
+sequence
+Length=1353542
+
+ Score = 32.2 bits (16),  Expect = 2.3
+ Identities = 16/16 (100%), Gaps = 0/16 (0%)
+ Strand=Plus/Plus
+
+Query  3        TGGAAGAACTTGGCAT  18
+                ||||||||||||||||
+Sbjct  1287223  TGGAAGAACTTGGCAT  1287238
+
+
+>VYZY01013858.1 Capsicum annuum cultivar ECW scaffold117074, whole genome shotgun 
+sequence
+Length=131521
+
+ Score = 32.2 bits (16),  Expect = 2.3
+ Identities = 16/16 (100%), Gaps = 0/16 (0%)
+ Strand=Plus/Minus
+
+Query  3      TGGAAGAACTTGGCAT  18
+              ||||||||||||||||
+Sbjct  49996  TGGAAGAACTTGGCAT  49981
+
+
+>VYZY01012772.1 Capsicum annuum cultivar ECW scaffold97982, whole genome shotgun 
+sequence
+Length=42643
+
+ Score = 32.2 bits (16),  Expect = 2.3
+ Identities = 16/16 (100%), Gaps = 0/16 (0%)
+ Strand=Plus/Minus
+
+Query  4     GGAAGAACTTGGCATA  19
+             ||||||||||||||||
+Sbjct  9638  GGAAGAACTTGGCATA  9623
+
+
+>VYZY01009827.1 Capsicum annuum cultivar ECW scaffold57351, whole genome shotgun 
+sequence
+Length=509177
+
+ Score = 32.2 bits (16),  Expect = 2.3
+ Identities = 16/16 (100%), Gaps = 0/16 (0%)
+ Strand=Plus/Minus
+
+Query  3       TGGAAGAACTTGGCAT  18
+               ||||||||||||||||
+Sbjct  241160  TGGAAGAACTTGGCAT  241145
+
+
+>VYZY01007162.1 Capsicum annuum cultivar ECW scaffold32923, whole genome shotgun 
+sequence
+Length=250544
+
+ Score = 32.2 bits (16),  Expect = 2.3
+ Identities = 16/16 (100%), Gaps = 0/16 (0%)
+ Strand=Plus/Minus
+
+Query  2       GTGGAAGAACTTGGCA  17
+               ||||||||||||||||
+Sbjct  149553  GTGGAAGAACTTGGCA  149538
+
+
+>VYZY01001867.1 Capsicum annuum cultivar ECW scaffold6164, whole genome shotgun 
+sequence
+Length=1090973
+
+ Score = 32.2 bits (16),  Expect = 2.3
+ Identities = 16/16 (100%), Gaps = 0/16 (0%)
+ Strand=Plus/Minus
+
+Query  3       TGGAAGAACTTGGCAT  18
+               ||||||||||||||||
+Sbjct  462302  TGGAAGAACTTGGCAT  462287
+
+
+>VYZY01035670.1 Capsicum annuum cultivar ECW scaffold1028558, whole genome shotgun 
+sequence
+Length=9469
+
+ Score = 30.2 bits (15),  Expect = 9.2
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Plus
+
+Query  5    GAAGAACTTGGCATA  19
+            |||||||||||||||
+Sbjct  983  GAAGAACTTGGCATA  997
+
+
+>VYZY01032644.1 Capsicum annuum cultivar ECW scaffold829108, whole genome shotgun 
+sequence
+Length=65723
+
+ Score = 30.2 bits (15),  Expect = 9.2
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Plus
+
+Query  5      GAAGAACTTGGCATA  19
+              |||||||||||||||
+Sbjct  54096  GAAGAACTTGGCATA  54110
+
+
+>VYZY01021465.1 Capsicum annuum cultivar ECW scaffold315707, whole genome shotgun 
+sequence
+Length=118519
+
+ Score = 30.2 bits (15),  Expect = 9.2
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Plus
+
+Query  5       GAAGAACTTGGCATA  19
+               |||||||||||||||
+Sbjct  109019  GAAGAACTTGGCATA  109033
+
+
+>VYZY01016781.1 Capsicum annuum cultivar ECW scaffold178672, whole genome shotgun 
+sequence
+Length=116817
+
+ Score = 30.2 bits (15),  Expect = 9.2
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Plus
+
+Query  5     GAAGAACTTGGCATA  19
+             |||||||||||||||
+Sbjct  7196  GAAGAACTTGGCATA  7210
+
+
+>VYZY01016220.1 Capsicum annuum cultivar ECW scaffold165055, whole genome shotgun 
+sequence
+Length=83953
+
+ Score = 30.2 bits (15),  Expect = 9.2
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Plus
+
+Query  5      GAAGAACTTGGCATA  19
+              |||||||||||||||
+Sbjct  76436  GAAGAACTTGGCATA  76450
+
+
+>VYZY01010482.1 Capsicum annuum cultivar ECW scaffold65056, whole genome shotgun 
+sequence
+Length=110961
+
+ Score = 30.2 bits (15),  Expect = 9.2
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Plus
+
+Query  6      AAGAACTTGGCATAG  20
+              |||||||||||||||
+Sbjct  84431  AAGAACTTGGCATAG  84445
+
+
+>VYZY01010421.1 Capsicum annuum cultivar ECW scaffold64404, whole genome shotgun 
+sequence
+Length=179148
+
+ Score = 30.2 bits (15),  Expect = 9.2
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Plus
+
+Query  5       GAAGAACTTGGCATA  19
+               |||||||||||||||
+Sbjct  117790  GAAGAACTTGGCATA  117804
+
+
+>VYZY01010014.1 Capsicum annuum cultivar ECW scaffold59539, whole genome shotgun 
+sequence
+Length=211136
+
+ Score = 30.2 bits (15),  Expect = 9.2
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Plus
+
+Query  5       GAAGAACTTGGCATA  19
+               |||||||||||||||
+Sbjct  158068  GAAGAACTTGGCATA  158082
+
+
+>VYZY01009448.1 Capsicum annuum cultivar ECW scaffold53349, whole genome shotgun 
+sequence
+Length=371223
+
+ Score = 30.2 bits (15),  Expect = 9.2
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Plus
+
+Query  5       GAAGAACTTGGCATA  19
+               |||||||||||||||
+Sbjct  316895  GAAGAACTTGGCATA  316909
+
+
+>VYZY01008089.1 Capsicum annuum cultivar ECW scaffold40205, whole genome shotgun 
+sequence
+Length=210926
+
+ Score = 30.2 bits (15),  Expect = 9.2
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Plus
+
+Query  5       GAAGAACTTGGCATA  19
+               |||||||||||||||
+Sbjct  198169  GAAGAACTTGGCATA  198183
+
+
+>VYZY01008015.1 Capsicum annuum cultivar ECW scaffold39579, whole genome shotgun 
+sequence
+Length=225399
+
+ Score = 30.2 bits (15),  Expect = 9.2
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Plus
+
+Query  5      GAAGAACTTGGCATA  19
+              |||||||||||||||
+Sbjct  12924  GAAGAACTTGGCATA  12938
+
+
+>VYZY01007426.1 Capsicum annuum cultivar ECW scaffold34690, whole genome shotgun 
+sequence
+Length=395055
+
+ Score = 30.2 bits (15),  Expect = 9.2
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Plus
+
+Query  5      GAAGAACTTGGCATA  19
+              |||||||||||||||
+Sbjct  94195  GAAGAACTTGGCATA  94209
+
+
+>VYZY01006934.1 Capsicum annuum cultivar ECW scaffold31275, whole genome shotgun 
+sequence
+Length=343321
+
+ Score = 30.2 bits (15),  Expect = 9.2
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Plus
+
+Query  5      GAAGAACTTGGCATA  19
+              |||||||||||||||
+Sbjct  73630  GAAGAACTTGGCATA  73644
+
+
+>VYZY01006487.1 Capsicum annuum cultivar ECW scaffold28271, whole genome shotgun 
+sequence
+Length=211806
+
+ Score = 30.2 bits (15),  Expect = 9.2
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Plus
+
+Query  1      AGTGGAAGAACTTGG  15
+              |||||||||||||||
+Sbjct  56383  AGTGGAAGAACTTGG  56397
+
+
+>VYZY01006009.1 Capsicum annuum cultivar ECW scaffold25120, whole genome shotgun 
+sequence
+Length=529826
+
+ Score = 30.2 bits (15),  Expect = 9.2
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Plus
+
+Query  5      GAAGAACTTGGCATA  19
+              |||||||||||||||
+Sbjct  43725  GAAGAACTTGGCATA  43739
+
+
+>VYZY01005692.1 Capsicum annuum cultivar ECW scaffold23199, whole genome shotgun 
+sequence
+Length=500562
+
+ Score = 30.2 bits (15),  Expect = 9.2
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Plus
+
+Query  6      AAGAACTTGGCATAG  20
+              |||||||||||||||
+Sbjct  35538  AAGAACTTGGCATAG  35552
+
+
+>VYZY01005644.1 Capsicum annuum cultivar ECW scaffold22914, whole genome shotgun 
+sequence
+Length=541136
+
+ Score = 30.2 bits (15),  Expect = 9.2
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Plus
+
+Query  5       GAAGAACTTGGCATA  19
+               |||||||||||||||
+Sbjct  444937  GAAGAACTTGGCATA  444951
+
+
+>VYZY01005149.1 Capsicum annuum cultivar ECW scaffold20133, whole genome shotgun 
+sequence
+Length=407061
+
+ Score = 30.2 bits (15),  Expect = 9.2
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Plus
+
+Query  5      GAAGAACTTGGCATA  19
+              |||||||||||||||
+Sbjct  53202  GAAGAACTTGGCATA  53216
+
+
+>VYZY01005054.1 Capsicum annuum cultivar ECW scaffold19631, whole genome shotgun 
+sequence
+Length=247102
+
+ Score = 30.2 bits (15),  Expect = 9.2
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Plus
+
+Query  1      AGTGGAAGAACTTGG  15
+              |||||||||||||||
+Sbjct  90931  AGTGGAAGAACTTGG  90945
+
+
+>VYZY01004959.1 Capsicum annuum cultivar ECW scaffold19178, whole genome shotgun 
+sequence
+Length=410249
+
+ Score = 30.2 bits (15),  Expect = 9.2
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Plus
+
+Query  5      GAAGAACTTGGCATA  19
+              |||||||||||||||
+Sbjct  29986  GAAGAACTTGGCATA  30000
+
+
+>VYZY01004621.1 Capsicum annuum cultivar ECW scaffold17359, whole genome shotgun 
+sequence
+Length=739182
+
+ Score = 30.2 bits (15),  Expect = 9.2
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Plus
+
+Query  3       TGGAAGAACTTGGCA  17
+               |||||||||||||||
+Sbjct  625711  TGGAAGAACTTGGCA  625725
+
+
+>VYZY01004100.1 Capsicum annuum cultivar ECW scaffold15259, whole genome shotgun 
+sequence
+Length=631949
+
+ Score = 30.2 bits (15),  Expect = 9.2
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Plus
+
+Query  5       GAAGAACTTGGCATA  19
+               |||||||||||||||
+Sbjct  445723  GAAGAACTTGGCATA  445737
+
+
+>VYZY01003746.1 Capsicum annuum cultivar ECW scaffold13621, whole genome shotgun 
+sequence
+Length=503422
+
+ Score = 30.2 bits (15),  Expect = 9.2
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Plus
+
+Query  5       GAAGAACTTGGCATA  19
+               |||||||||||||||
+Sbjct  130783  GAAGAACTTGGCATA  130797
+
+
+>VYZY01003404.1 Capsicum annuum cultivar ECW scaffold12256, whole genome shotgun 
+sequence
+Length=875367
+
+ Score = 30.2 bits (15),  Expect = 9.2
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Plus
+
+Query  5       GAAGAACTTGGCATA  19
+               |||||||||||||||
+Sbjct  510146  GAAGAACTTGGCATA  510160
+
+
+>VYZY01003305.1 Capsicum annuum cultivar ECW scaffold11754, whole genome shotgun 
+sequence
+Length=658193
+
+ Score = 30.2 bits (15),  Expect = 9.2
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Plus
+
+Query  7       AGAACTTGGCATAGG  21
+               |||||||||||||||
+Sbjct  279051  AGAACTTGGCATAGG  279065
+
+
+>VYZY01003205.1 Capsicum annuum cultivar ECW scaffold11298, whole genome shotgun 
+sequence
+Length=1109531
+
+ Score = 30.2 bits (15),  Expect = 9.2
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Plus
+
+Query  5       GAAGAACTTGGCATA  19
+               |||||||||||||||
+Sbjct  882539  GAAGAACTTGGCATA  882553
+
+
+>VYZY01002977.1 Capsicum annuum cultivar ECW scaffold10367, whole genome shotgun 
+sequence
+Length=333137
+
+ Score = 30.2 bits (15),  Expect = 9.2
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Plus
+
+Query  5       GAAGAACTTGGCATA  19
+               |||||||||||||||
+Sbjct  108514  GAAGAACTTGGCATA  108528
+
+
+>VYZY01002903.1 Capsicum annuum cultivar ECW scaffold9985, whole genome shotgun 
+sequence
+Length=445160
+
+ Score = 30.2 bits (15),  Expect = 9.2
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Plus
+
+Query  6       AAGAACTTGGCATAG  20
+               |||||||||||||||
+Sbjct  163822  AAGAACTTGGCATAG  163836
+
+
+>VYZY01002711.1 Capsicum annuum cultivar ECW scaffold9422, whole genome shotgun 
+sequence
+Length=582516
+
+ Score = 30.2 bits (15),  Expect = 9.2
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Plus
+
+Query  5       GAAGAACTTGGCATA  19
+               |||||||||||||||
+Sbjct  333599  GAAGAACTTGGCATA  333613
+
+
+>VYZY01002576.1 Capsicum annuum cultivar ECW scaffold8987, whole genome shotgun 
+sequence
+Length=1356747
+
+ Score = 30.2 bits (15),  Expect = 9.2
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Plus
+
+Query  5       GAAGAACTTGGCATA  19
+               |||||||||||||||
+Sbjct  764280  GAAGAACTTGGCATA  764294
+
+
+>VYZY01002196.1 Capsicum annuum cultivar ECW scaffold7344, whole genome shotgun 
+sequence
+Length=517727
+
+ Score = 30.2 bits (15),  Expect = 9.2
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Plus
+
+Query  5       GAAGAACTTGGCATA  19
+               |||||||||||||||
+Sbjct  167122  GAAGAACTTGGCATA  167136
+
+
+>VYZY01002157.1 Capsicum annuum cultivar ECW scaffold7226, whole genome shotgun 
+sequence
+Length=1360076
+
+ Score = 30.2 bits (15),  Expect = 9.2
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Plus
+
+Query  5        GAAGAACTTGGCATA  19
+                |||||||||||||||
+Sbjct  1099527  GAAGAACTTGGCATA  1099541
+
+
+>VYZY01002153.1 Capsicum annuum cultivar ECW scaffold7213, whole genome shotgun 
+sequence
+Length=1024093
+
+ Score = 30.2 bits (15),  Expect = 9.2
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Plus
+
+Query  5      GAAGAACTTGGCATA  19
+              |||||||||||||||
+Sbjct  50113  GAAGAACTTGGCATA  50127
+
+
+>VYZY01002132.1 Capsicum annuum cultivar ECW scaffold7161, whole genome shotgun 
+sequence
+Length=1082615
+
+ Score = 30.2 bits (15),  Expect = 9.2
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Plus
+
+Query  1       AGTGGAAGAACTTGG  15
+               |||||||||||||||
+Sbjct  865786  AGTGGAAGAACTTGG  865800
+
+
+>VYZY01002000.1 Capsicum annuum cultivar ECW scaffold6686, whole genome shotgun 
+sequence
+Length=160467
+
+ Score = 30.2 bits (15),  Expect = 9.2
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Plus
+
+Query  5      GAAGAACTTGGCATA  19
+              |||||||||||||||
+Sbjct  20009  GAAGAACTTGGCATA  20023
+
+
+>VYZY01001584.1 Capsicum annuum cultivar ECW scaffold5204, whole genome shotgun 
+sequence
+Length=511837
+
+ Score = 30.2 bits (15),  Expect = 9.2
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Plus
+
+Query  5       GAAGAACTTGGCATA  19
+               |||||||||||||||
+Sbjct  250742  GAAGAACTTGGCATA  250756
+
+
+>VYZY01001492.1 Capsicum annuum cultivar ECW scaffold4908, whole genome shotgun 
+sequence
+Length=376891
+
+ Score = 30.2 bits (15),  Expect = 9.2
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Plus
+
+Query  5      GAAGAACTTGGCATA  19
+              |||||||||||||||
+Sbjct  53283  GAAGAACTTGGCATA  53297
+
+
+>VYZY01001325.1 Capsicum annuum cultivar ECW scaffold4329, whole genome shotgun 
+sequence
+Length=615135
+
+ Score = 30.2 bits (15),  Expect = 9.2
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Plus
+
+Query  5       GAAGAACTTGGCATA  19
+               |||||||||||||||
+Sbjct  414045  GAAGAACTTGGCATA  414059
+
+
+>VYZY01000991.1 Capsicum annuum cultivar ECW scaffold3196, whole genome shotgun 
+sequence
+Length=406557
+
+ Score = 30.2 bits (15),  Expect = 9.2
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Plus
+
+Query  5       GAAGAACTTGGCATA  19
+               |||||||||||||||
+Sbjct  206256  GAAGAACTTGGCATA  206270
+
+
+>VYZY01000960.1 Capsicum annuum cultivar ECW scaffold3085, whole genome shotgun 
+sequence
+Length=681214
+
+ Score = 30.2 bits (15),  Expect = 9.2
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Plus
+
+Query  5       GAAGAACTTGGCATA  19
+               |||||||||||||||
+Sbjct  176751  GAAGAACTTGGCATA  176765
+
+
+>VYZY01035033.1 Capsicum annuum cultivar ECW scaffold982554, whole genome shotgun 
+sequence
+Length=94398
+
+ Score = 30.2 bits (15),  Expect = 9.2
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Minus
+
+Query  5      GAAGAACTTGGCATA  19
+              |||||||||||||||
+Sbjct  47348  GAAGAACTTGGCATA  47334
+
+
+>VYZY01022505.1 Capsicum annuum cultivar ECW scaffold353626, whole genome shotgun 
+sequence
+Length=53183
+
+ Score = 30.2 bits (15),  Expect = 9.2
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Minus
+
+Query  5   GAAGAACTTGGCATA  19
+           |||||||||||||||
+Sbjct  80  GAAGAACTTGGCATA  66
+
+
+>VYZY01020966.1 Capsicum annuum cultivar ECW scaffold299678, whole genome shotgun 
+sequence
+Length=1023
+
+ Score = 30.2 bits (15),  Expect = 9.2
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Minus
+
+Query  5    GAAGAACTTGGCATA  19
+            |||||||||||||||
+Sbjct  425  GAAGAACTTGGCATA  411
+
+
+>VYZY01020528.1 Capsicum annuum cultivar ECW scaffold286008, whole genome shotgun 
+sequence
+Length=85740
+
+ Score = 30.2 bits (15),  Expect = 9.2
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Minus
+
+Query  5      GAAGAACTTGGCATA  19
+              |||||||||||||||
+Sbjct  65125  GAAGAACTTGGCATA  65111
+
+
+>VYZY01017879.1 Capsicum annuum cultivar ECW scaffold207001, whole genome shotgun 
+sequence
+Length=223777
+
+ Score = 30.2 bits (15),  Expect = 9.2
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Minus
+
+Query  5      GAAGAACTTGGCATA  19
+              |||||||||||||||
+Sbjct  52319  GAAGAACTTGGCATA  52305
+
+
+>VYZY01017081.1 Capsicum annuum cultivar ECW scaffold186836, whole genome shotgun 
+sequence
+Length=213209
+
+ Score = 30.2 bits (15),  Expect = 9.2
+ Identities = 18/19 (95%), Gaps = 0/19 (0%)
+ Strand=Plus/Minus
+
+Query  1       AGTGGAAGAACTTGGCATA  19
+               ||||| |||||||||||||
+Sbjct  155913  AGTGGGAGAACTTGGCATA  155895
+
+
+>VYZY01013154.1 Capsicum annuum cultivar ECW scaffold103833, whole genome shotgun 
+sequence
+Length=255557
+
+ Score = 30.2 bits (15),  Expect = 9.2
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Minus
+
+Query  5       GAAGAACTTGGCATA  19
+               |||||||||||||||
+Sbjct  235443  GAAGAACTTGGCATA  235429
+
+
+>VYZY01011229.1 Capsicum annuum cultivar ECW scaffold74231, whole genome shotgun 
+sequence
+Length=250815
+
+ Score = 30.2 bits (15),  Expect = 9.2
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Minus
+
+Query  5       GAAGAACTTGGCATA  19
+               |||||||||||||||
+Sbjct  174197  GAAGAACTTGGCATA  174183
+
+
+>VYZY01009344.1 Capsicum annuum cultivar ECW scaffold52174, whole genome shotgun 
+sequence
+Length=500827
+
+ Score = 30.2 bits (15),  Expect = 9.2
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Minus
+
+Query  6       AAGAACTTGGCATAG  20
+               |||||||||||||||
+Sbjct  225762  AAGAACTTGGCATAG  225748
+
+
+>VYZY01008612.1 Capsicum annuum cultivar ECW scaffold45289, whole genome shotgun 
+sequence
+Length=93109
+
+ Score = 30.2 bits (15),  Expect = 9.2
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Minus
+
+Query  4      GGAAGAACTTGGCAT  18
+              |||||||||||||||
+Sbjct  74304  GGAAGAACTTGGCAT  74290
+
+
+>VYZY01008364.1 Capsicum annuum cultivar ECW scaffold42997, whole genome shotgun 
+sequence
+Length=317457
+
+ Score = 30.2 bits (15),  Expect = 9.2
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Minus
+
+Query  5       GAAGAACTTGGCATA  19
+               |||||||||||||||
+Sbjct  284402  GAAGAACTTGGCATA  284388
+
+
+>VYZY01008268.1 Capsicum annuum cultivar ECW scaffold41916, whole genome shotgun 
+sequence
+Length=216839
+
+ Score = 30.2 bits (15),  Expect = 9.2
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Minus
+
+Query  6       AAGAACTTGGCATAG  20
+               |||||||||||||||
+Sbjct  212974  AAGAACTTGGCATAG  212960
+
+
+>VYZY01008050.1 Capsicum annuum cultivar ECW scaffold39864, whole genome shotgun 
+sequence
+Length=385422
+
+ Score = 30.2 bits (15),  Expect = 9.2
+ Identities = 18/19 (95%), Gaps = 0/19 (0%)
+ Strand=Plus/Minus
+
+Query  3      TGGAAGAACTTGGCATAGG  21
+              |||||||||||| ||||||
+Sbjct  86914  TGGAAGAACTTGTCATAGG  86896
+
+
+>VYZY01007414.1 Capsicum annuum cultivar ECW scaffold34604, whole genome shotgun 
+sequence
+Length=387055
+
+ Score = 30.2 bits (15),  Expect = 9.2
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Minus
+
+Query  5       GAAGAACTTGGCATA  19
+               |||||||||||||||
+Sbjct  190284  GAAGAACTTGGCATA  190270
+
+
+>VYZY01007268.1 Capsicum annuum cultivar ECW scaffold33486, whole genome shotgun 
+sequence
+Length=182977
+
+ Score = 30.2 bits (15),  Expect = 9.2
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Minus
+
+Query  5      GAAGAACTTGGCATA  19
+              |||||||||||||||
+Sbjct  37633  GAAGAACTTGGCATA  37619
+
+
+>VYZY01006954.1 Capsicum annuum cultivar ECW scaffold31405, whole genome shotgun 
+sequence
+Length=346432
+
+ Score = 30.2 bits (15),  Expect = 9.2
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Minus
+
+Query  6       AAGAACTTGGCATAG  20
+               |||||||||||||||
+Sbjct  134465  AAGAACTTGGCATAG  134451
+
+
+>VYZY01006894.1 Capsicum annuum cultivar ECW scaffold30934, whole genome shotgun 
+sequence
+Length=800308
+
+ Score = 30.2 bits (15),  Expect = 9.2
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Minus
+
+Query  6       AAGAACTTGGCATAG  20
+               |||||||||||||||
+Sbjct  434212  AAGAACTTGGCATAG  434198
+
+
+>VYZY01006727.1 Capsicum annuum cultivar ECW scaffold29764, whole genome shotgun 
+sequence
+Length=313014
+
+ Score = 30.2 bits (15),  Expect = 9.2
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Minus
+
+Query  5      GAAGAACTTGGCATA  19
+              |||||||||||||||
+Sbjct  92529  GAAGAACTTGGCATA  92515
+
+
+>VYZY01006570.1 Capsicum annuum cultivar ECW scaffold28854, whole genome shotgun 
+sequence
+Length=1051080
+
+ Score = 30.2 bits (15),  Expect = 9.2
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Minus
+
+Query  5       GAAGAACTTGGCATA  19
+               |||||||||||||||
+Sbjct  731625  GAAGAACTTGGCATA  731611
+
+
+>VYZY01006423.1 Capsicum annuum cultivar ECW scaffold27773, whole genome shotgun 
+sequence
+Length=587535
+
+ Score = 30.2 bits (15),  Expect = 9.2
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Minus
+
+Query  5       GAAGAACTTGGCATA  19
+               |||||||||||||||
+Sbjct  287754  GAAGAACTTGGCATA  287740
+
+
+>VYZY01006356.1 Capsicum annuum cultivar ECW scaffold27305, whole genome shotgun 
+sequence
+Length=1170641
+
+ Score = 30.2 bits (15),  Expect = 9.2
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Minus
+
+Query  5       GAAGAACTTGGCATA  19
+               |||||||||||||||
+Sbjct  483883  GAAGAACTTGGCATA  483869
+
+
+>VYZY01006275.1 Capsicum annuum cultivar ECW scaffold26752, whole genome shotgun 
+sequence
+Length=554959
+
+ Score = 30.2 bits (15),  Expect = 9.2
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Minus
+
+Query  5       GAAGAACTTGGCATA  19
+               |||||||||||||||
+Sbjct  182859  GAAGAACTTGGCATA  182845
+
+
+>VYZY01006079.1 Capsicum annuum cultivar ECW scaffold25616, whole genome shotgun 
+sequence
+Length=738613
+
+ Score = 30.2 bits (15),  Expect = 9.2
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Minus
+
+Query  5       GAAGAACTTGGCATA  19
+               |||||||||||||||
+Sbjct  288101  GAAGAACTTGGCATA  288087
+
+
+>VYZY01005774.1 Capsicum annuum cultivar ECW scaffold23641, whole genome shotgun 
+sequence
+Length=1128604
+
+ Score = 30.2 bits (15),  Expect = 9.2
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Minus
+
+Query  5       GAAGAACTTGGCATA  19
+               |||||||||||||||
+Sbjct  178734  GAAGAACTTGGCATA  178720
+
+
+>VYZY01005710.1 Capsicum annuum cultivar ECW scaffold23273, whole genome shotgun 
+sequence
+Length=447282
+
+ Score = 30.2 bits (15),  Expect = 9.2
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Minus
+
+Query  6      AAGAACTTGGCATAG  20
+              |||||||||||||||
+Sbjct  31514  AAGAACTTGGCATAG  31500
+
+
+>VYZY01005565.1 Capsicum annuum cultivar ECW scaffold22373, whole genome shotgun 
+sequence
+Length=1122588
+
+ Score = 30.2 bits (15),  Expect = 9.2
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Minus
+
+Query  5       GAAGAACTTGGCATA  19
+               |||||||||||||||
+Sbjct  970202  GAAGAACTTGGCATA  970188
+
+
+>VYZY01005439.1 Capsicum annuum cultivar ECW scaffold21720, whole genome shotgun 
+sequence
+Length=328294
+
+ Score = 30.2 bits (15),  Expect = 9.2
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Minus
+
+Query  5       GAAGAACTTGGCATA  19
+               |||||||||||||||
+Sbjct  140677  GAAGAACTTGGCATA  140663
+
+
+>VYZY01005198.1 Capsicum annuum cultivar ECW scaffold20447, whole genome shotgun 
+sequence
+Length=90835
+
+ Score = 30.2 bits (15),  Expect = 9.2
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Minus
+
+Query  6      AAGAACTTGGCATAG  20
+              |||||||||||||||
+Sbjct  76048  AAGAACTTGGCATAG  76034
+
+
+>VYZY01004383.1 Capsicum annuum cultivar ECW scaffold16485, whole genome shotgun 
+sequence
+Length=390232
+
+ Score = 30.2 bits (15),  Expect = 9.2
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Minus
+
+Query  5       GAAGAACTTGGCATA  19
+               |||||||||||||||
+Sbjct  260444  GAAGAACTTGGCATA  260430
+
+
+>VYZY01004287.1 Capsicum annuum cultivar ECW scaffold16063, whole genome shotgun 
+sequence
+Length=784955
+
+ Score = 30.2 bits (15),  Expect = 9.2
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Minus
+
+Query  5       GAAGAACTTGGCATA  19
+               |||||||||||||||
+Sbjct  125672  GAAGAACTTGGCATA  125658
+
+
+>VYZY01003504.1 Capsicum annuum cultivar ECW scaffold12679, whole genome shotgun 
+sequence
+Length=575258
+
+ Score = 30.2 bits (15),  Expect = 9.2
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Minus
+
+Query  6       AAGAACTTGGCATAG  20
+               |||||||||||||||
+Sbjct  189231  AAGAACTTGGCATAG  189217
+
+
+>VYZY01003450.1 Capsicum annuum cultivar ECW scaffold12453, whole genome shotgun 
+sequence
+Length=448059
+
+ Score = 30.2 bits (15),  Expect = 9.2
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Minus
+
+Query  6       AAGAACTTGGCATAG  20
+               |||||||||||||||
+Sbjct  365995  AAGAACTTGGCATAG  365981
+
+
+>VYZY01002425.1 Capsicum annuum cultivar ECW scaffold8385, whole genome shotgun 
+sequence
+Length=1670142
+
+ Score = 30.2 bits (15),  Expect = 9.2
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Minus
+
+Query  5       GAAGAACTTGGCATA  19
+               |||||||||||||||
+Sbjct  592725  GAAGAACTTGGCATA  592711
+
+
+>VYZY01002376.1 Capsicum annuum cultivar ECW scaffold8202, whole genome shotgun 
+sequence
+Length=550036
+
+ Score = 30.2 bits (15),  Expect = 9.2
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Minus
+
+Query  6       AAGAACTTGGCATAG  20
+               |||||||||||||||
+Sbjct  289010  AAGAACTTGGCATAG  288996
+
+
+>VYZY01002261.1 Capsicum annuum cultivar ECW scaffold7641, whole genome shotgun 
+sequence
+Length=454819
+
+ Score = 30.2 bits (15),  Expect = 9.2
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Minus
+
+Query  5      GAAGAACTTGGCATA  19
+              |||||||||||||||
+Sbjct  84106  GAAGAACTTGGCATA  84092
+
+
+>VYZY01002207.1 Capsicum annuum cultivar ECW scaffold7374, whole genome shotgun 
+sequence
+Length=1402542
+
+ Score = 30.2 bits (15),  Expect = 9.2
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Minus
+
+Query  5        GAAGAACTTGGCATA  19
+                |||||||||||||||
+Sbjct  1187708  GAAGAACTTGGCATA  1187694
+
+
+>VYZY01001892.1 Capsicum annuum cultivar ECW scaffold6274, whole genome shotgun 
+sequence
+Length=364049
+
+ Score = 30.2 bits (15),  Expect = 9.2
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Minus
+
+Query  5       GAAGAACTTGGCATA  19
+               |||||||||||||||
+Sbjct  131030  GAAGAACTTGGCATA  131016
+
+
+>VYZY01001408.1 Capsicum annuum cultivar ECW scaffold4621, whole genome shotgun 
+sequence
+Length=740331
+
+ Score = 30.2 bits (15),  Expect = 9.2
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Minus
+
+Query  5       GAAGAACTTGGCATA  19
+               |||||||||||||||
+Sbjct  305299  GAAGAACTTGGCATA  305285
+
+
+>VYZY01000627.1 Capsicum annuum cultivar ECW scaffold2014, whole genome shotgun 
+sequence
+Length=226459
+
+ Score = 30.2 bits (15),  Expect = 9.2
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Minus
+
+Query  5      GAAGAACTTGGCATA  19
+              |||||||||||||||
+Sbjct  71878  GAAGAACTTGGCATA  71864
+
+
+>VYZY01000461.1 Capsicum annuum cultivar ECW scaffold1470, whole genome shotgun 
+sequence
+Length=671085
+
+ Score = 30.2 bits (15),  Expect = 9.2
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Minus
+
+Query  5       GAAGAACTTGGCATA  19
+               |||||||||||||||
+Sbjct  615120  GAAGAACTTGGCATA  615106
+
+
+
+Lambda      K        H
+    1.37    0.711     1.31 
+
+Gapped
+Lambda      K        H
+    1.37    0.711     1.31 
+
+Effective search space used: 11515361008
+
+
+  Database: datasets/ncbi_dataset/data/GCA_011745845.1/GCA_011745845.1_SNU_ECW_1
+.0_genomic.fna
+    Posted date:  Sep 10, 2021  4:01 PM
+  Number of letters in database: 2,879,589,612
+  Number of sequences in database:  44,080
+
+
+
+Matrix: blastn matrix 1 -3
+Gap Penalties: Existence: 5, Extension: 2

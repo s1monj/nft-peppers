@@ -1,0 +1,100 @@
+BLASTN 2.12.0+
+
+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro A.
+Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J.
+Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of
+protein database search programs", Nucleic Acids Res. 25:3389-3402.
+
+
+
+Database: datasets/ncbi_dataset/data/GCA_011745865.1/GCA_011745865.1_SNU_SF_1.
+0_genomic.fna
+           44,704 sequences; 2,882,417,764 total letters
+
+
+
+Query= 
+Length=23
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+VYZZ01004508.1 Capsicum annuum cultivar SF scaffold17271, whole g...  46.1    2e-04
+VYZZ01007400.1 Capsicum annuum cultivar SF scaffold35095, whole g...  32.2    3.5  
+VYZZ01005844.1 Capsicum annuum cultivar SF scaffold24753, whole g...  32.2    3.5  
+VYZZ01003231.1 Capsicum annuum cultivar SF scaffold11465, whole g...  32.2    3.5  
+
+
+>VYZZ01004508.1 Capsicum annuum cultivar SF scaffold17271, whole genome shotgun 
+sequence
+Length=104871
+
+ Score = 46.1 bits (23),  Expect = 2e-04
+ Identities = 23/23 (100%), Gaps = 0/23 (0%)
+ Strand=Plus/Plus
+
+Query  1      TACCACGAGTATCTGAGGCTAAA  23
+              |||||||||||||||||||||||
+Sbjct  13210  TACCACGAGTATCTGAGGCTAAA  13232
+
+
+>VYZZ01007400.1 Capsicum annuum cultivar SF scaffold35095, whole genome shotgun 
+sequence
+Length=381991
+
+ Score = 32.2 bits (16),  Expect = 3.5
+ Identities = 16/16 (100%), Gaps = 0/16 (0%)
+ Strand=Plus/Plus
+
+Query  8       AGTATCTGAGGCTAAA  23
+               ||||||||||||||||
+Sbjct  186065  AGTATCTGAGGCTAAA  186080
+
+
+>VYZZ01005844.1 Capsicum annuum cultivar SF scaffold24753, whole genome shotgun 
+sequence
+Length=515801
+
+ Score = 32.2 bits (16),  Expect = 3.5
+ Identities = 16/16 (100%), Gaps = 0/16 (0%)
+ Strand=Plus/Plus
+
+Query  5       ACGAGTATCTGAGGCT  20
+               ||||||||||||||||
+Sbjct  112520  ACGAGTATCTGAGGCT  112535
+
+
+>VYZZ01003231.1 Capsicum annuum cultivar SF scaffold11465, whole genome shotgun 
+sequence
+Length=219273
+
+ Score = 32.2 bits (16),  Expect = 3.5
+ Identities = 16/16 (100%), Gaps = 0/16 (0%)
+ Strand=Plus/Minus
+
+Query  8       AGTATCTGAGGCTAAA  23
+               ||||||||||||||||
+Sbjct  150609  AGTATCTGAGGCTAAA  150594
+
+
+
+Lambda      K        H
+    1.37    0.711     1.31 
+
+Gapped
+Lambda      K        H
+    1.37    0.711     1.31 
+
+Effective search space used: 17289946776
+
+
+  Database: datasets/ncbi_dataset/data/GCA_011745865.1/GCA_011745865.1_SNU_SF_1.
+0_genomic.fna
+    Posted date:  Sep 10, 2021  4:03 PM
+  Number of letters in database: 2,882,417,764
+  Number of sequences in database:  44,704
+
+
+
+Matrix: blastn matrix 1 -3
+Gap Penalties: Existence: 5, Extension: 2

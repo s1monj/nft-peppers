@@ -1,0 +1,310 @@
+BLASTN 2.12.0+
+
+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro A.
+Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J.
+Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of
+protein database search programs", Nucleic Acids Res. 25:3389-3402.
+
+
+
+Database: datasets/ncbi_dataset/data/GCA_011745865.1/GCA_011745865.1_SNU_SF_1.
+0_genomic.fna
+           44,704 sequences; 2,882,417,764 total letters
+
+
+
+Query= 
+Length=21
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+VYZZ01001398.1 Capsicum annuum cultivar SF scaffold4592, whole ge...  34.2    0.59 
+VYZZ01006438.1 Capsicum annuum cultivar SF scaffold28568, whole g...  32.2    2.3  
+VYZZ01008288.1 Capsicum annuum cultivar SF scaffold42364, whole g...  32.2    2.3  
+VYZZ01007519.1 Capsicum annuum cultivar SF scaffold36048, whole g...  32.2    2.3  
+VYZZ01004683.1 Capsicum annuum cultivar SF scaffold18073, whole g...  32.2    2.3  
+VYZZ01003030.1 Capsicum annuum cultivar SF scaffold10619, whole g...  32.2    2.3  
+VYZZ01002166.1 Capsicum annuum cultivar SF scaffold7457, whole ge...  32.2    2.3  
+VYZZ01000292.1 Capsicum annuum cultivar SF scaffold1017, whole ge...  32.2    2.3  
+VYZZ01006276.1 Capsicum annuum cultivar SF scaffold27440, whole g...  30.2    9.2  
+VYZZ01001578.1 Capsicum annuum cultivar SF scaffold5205, whole ge...  30.2    9.2  
+VYZZ01001041.1 Capsicum annuum cultivar SF scaffold3457, whole ge...  30.2    9.2  
+VYZZ01000029.1 Capsicum annuum cultivar SF scaffold102, whole gen...  30.2    9.2  
+VYZZ01012428.1 Capsicum annuum cultivar SF scaffold93210, whole g...  30.2    9.2  
+VYZZ01005121.1 Capsicum annuum cultivar SF scaffold20431, whole g...  30.2    9.2  
+VYZZ01004254.1 Capsicum annuum cultivar SF scaffold16156, whole g...  30.2    9.2  
+VYZZ01002591.1 Capsicum annuum cultivar SF scaffold9160, whole ge...  30.2    9.2  
+VYZZ01001955.1 Capsicum annuum cultivar SF scaffold6650, whole ge...  30.2    9.2  
+VYZZ01001294.1 Capsicum annuum cultivar SF scaffold4246, whole ge...  30.2    9.2  
+VYZZ01001089.1 Capsicum annuum cultivar SF scaffold3621, whole ge...  30.2    9.2  
+
+
+>VYZZ01001398.1 Capsicum annuum cultivar SF scaffold4592, whole genome shotgun 
+sequence
+Length=891098
+
+ Score = 34.2 bits (17),  Expect = 0.59
+ Identities = 20/21 (95%), Gaps = 0/21 (0%)
+ Strand=Plus/Minus
+
+Query  1      AACTCACTTTGGCAGTCTCTC  21
+              |||||||||||||| ||||||
+Sbjct  62941  AACTCACTTTGGCAATCTCTC  62921
+
+
+>VYZZ01006438.1 Capsicum annuum cultivar SF scaffold28568, whole genome shotgun 
+sequence
+Length=379362
+
+ Score = 32.2 bits (16),  Expect = 2.3
+ Identities = 16/16 (100%), Gaps = 0/16 (0%)
+ Strand=Plus/Plus
+
+Query  2       ACTCACTTTGGCAGTC  17
+               ||||||||||||||||
+Sbjct  344806  ACTCACTTTGGCAGTC  344821
+
+
+>VYZZ01008288.1 Capsicum annuum cultivar SF scaffold42364, whole genome shotgun 
+sequence
+Length=271100
+
+ Score = 32.2 bits (16),  Expect = 2.3
+ Identities = 16/16 (100%), Gaps = 0/16 (0%)
+ Strand=Plus/Minus
+
+Query  1      AACTCACTTTGGCAGT  16
+              ||||||||||||||||
+Sbjct  21565  AACTCACTTTGGCAGT  21550
+
+
+>VYZZ01007519.1 Capsicum annuum cultivar SF scaffold36048, whole genome shotgun 
+sequence
+Length=213802
+
+ Score = 32.2 bits (16),  Expect = 2.3
+ Identities = 16/16 (100%), Gaps = 0/16 (0%)
+ Strand=Plus/Minus
+
+Query  2       ACTCACTTTGGCAGTC  17
+               ||||||||||||||||
+Sbjct  104432  ACTCACTTTGGCAGTC  104417
+
+
+>VYZZ01004683.1 Capsicum annuum cultivar SF scaffold18073, whole genome shotgun 
+sequence
+Length=742691
+
+ Score = 32.2 bits (16),  Expect = 2.3
+ Identities = 16/16 (100%), Gaps = 0/16 (0%)
+ Strand=Plus/Minus
+
+Query  3       CTCACTTTGGCAGTCT  18
+               ||||||||||||||||
+Sbjct  270762  CTCACTTTGGCAGTCT  270747
+
+
+>VYZZ01003030.1 Capsicum annuum cultivar SF scaffold10619, whole genome shotgun 
+sequence
+Length=340075
+
+ Score = 32.2 bits (16),  Expect = 2.3
+ Identities = 16/16 (100%), Gaps = 0/16 (0%)
+ Strand=Plus/Minus
+
+Query  6       ACTTTGGCAGTCTCTC  21
+               ||||||||||||||||
+Sbjct  245571  ACTTTGGCAGTCTCTC  245556
+
+
+>VYZZ01002166.1 Capsicum annuum cultivar SF scaffold7457, whole genome shotgun 
+sequence
+Length=1374584
+
+ Score = 32.2 bits (16),  Expect = 2.3
+ Identities = 16/16 (100%), Gaps = 0/16 (0%)
+ Strand=Plus/Minus
+
+Query  2        ACTCACTTTGGCAGTC  17
+                ||||||||||||||||
+Sbjct  1324439  ACTCACTTTGGCAGTC  1324424
+
+
+>VYZZ01000292.1 Capsicum annuum cultivar SF scaffold1017, whole genome shotgun 
+sequence
+Length=409397
+
+ Score = 32.2 bits (16),  Expect = 2.3
+ Identities = 16/16 (100%), Gaps = 0/16 (0%)
+ Strand=Plus/Minus
+
+Query  3       CTCACTTTGGCAGTCT  18
+               ||||||||||||||||
+Sbjct  183548  CTCACTTTGGCAGTCT  183533
+
+
+>VYZZ01006276.1 Capsicum annuum cultivar SF scaffold27440, whole genome shotgun 
+sequence
+Length=705041
+
+ Score = 30.2 bits (15),  Expect = 9.2
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Plus
+
+Query  6       ACTTTGGCAGTCTCT  20
+               |||||||||||||||
+Sbjct  390999  ACTTTGGCAGTCTCT  391013
+
+
+>VYZZ01001578.1 Capsicum annuum cultivar SF scaffold5205, whole genome shotgun 
+sequence
+Length=903866
+
+ Score = 30.2 bits (15),  Expect = 9.2
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Plus
+
+Query  1      AACTCACTTTGGCAG  15
+              |||||||||||||||
+Sbjct  38385  AACTCACTTTGGCAG  38399
+
+
+>VYZZ01001041.1 Capsicum annuum cultivar SF scaffold3457, whole genome shotgun 
+sequence
+Length=128020
+
+ Score = 30.2 bits (15),  Expect = 9.2
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Plus
+
+Query  7      CTTTGGCAGTCTCTC  21
+              |||||||||||||||
+Sbjct  55263  CTTTGGCAGTCTCTC  55277
+
+
+>VYZZ01000029.1 Capsicum annuum cultivar SF scaffold102, whole genome shotgun 
+sequence
+Length=1131333
+
+ Score = 30.2 bits (15),  Expect = 9.2
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Plus
+
+Query  3       CTCACTTTGGCAGTC  17
+               |||||||||||||||
+Sbjct  680399  CTCACTTTGGCAGTC  680413
+
+
+>VYZZ01012428.1 Capsicum annuum cultivar SF scaffold93210, whole genome shotgun 
+sequence
+Length=239981
+
+ Score = 30.2 bits (15),  Expect = 9.2
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Minus
+
+Query  7      CTTTGGCAGTCTCTC  21
+              |||||||||||||||
+Sbjct  73910  CTTTGGCAGTCTCTC  73896
+
+
+>VYZZ01005121.1 Capsicum annuum cultivar SF scaffold20431, whole genome shotgun 
+sequence
+Length=518714
+
+ Score = 30.2 bits (15),  Expect = 9.2
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Minus
+
+Query  3       CTCACTTTGGCAGTC  17
+               |||||||||||||||
+Sbjct  187915  CTCACTTTGGCAGTC  187901
+
+
+>VYZZ01004254.1 Capsicum annuum cultivar SF scaffold16156, whole genome shotgun 
+sequence
+Length=944026
+
+ Score = 30.2 bits (15),  Expect = 9.2
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Minus
+
+Query  6      ACTTTGGCAGTCTCT  20
+              |||||||||||||||
+Sbjct  62676  ACTTTGGCAGTCTCT  62662
+
+
+>VYZZ01002591.1 Capsicum annuum cultivar SF scaffold9160, whole genome shotgun 
+sequence
+Length=741128
+
+ Score = 30.2 bits (15),  Expect = 9.2
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Minus
+
+Query  3       CTCACTTTGGCAGTC  17
+               |||||||||||||||
+Sbjct  259174  CTCACTTTGGCAGTC  259160
+
+
+>VYZZ01001955.1 Capsicum annuum cultivar SF scaffold6650, whole genome shotgun 
+sequence
+Length=145612
+
+ Score = 30.2 bits (15),  Expect = 9.2
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Minus
+
+Query  4       TCACTTTGGCAGTCT  18
+               |||||||||||||||
+Sbjct  112156  TCACTTTGGCAGTCT  112142
+
+
+>VYZZ01001294.1 Capsicum annuum cultivar SF scaffold4246, whole genome shotgun 
+sequence
+Length=572546
+
+ Score = 30.2 bits (15),  Expect = 9.2
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Minus
+
+Query  1       AACTCACTTTGGCAG  15
+               |||||||||||||||
+Sbjct  455106  AACTCACTTTGGCAG  455092
+
+
+>VYZZ01001089.1 Capsicum annuum cultivar SF scaffold3621, whole genome shotgun 
+sequence
+Length=611690
+
+ Score = 30.2 bits (15),  Expect = 9.2
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Minus
+
+Query  7       CTTTGGCAGTCTCTC  21
+               |||||||||||||||
+Sbjct  443280  CTTTGGCAGTCTCTC  443266
+
+
+
+Lambda      K        H
+    1.37    0.711     1.31 
+
+Gapped
+Lambda      K        H
+    1.37    0.711     1.31 
+
+Effective search space used: 11526631184
+
+
+  Database: datasets/ncbi_dataset/data/GCA_011745865.1/GCA_011745865.1_SNU_SF_1.
+0_genomic.fna
+    Posted date:  Sep 10, 2021  4:03 PM
+  Number of letters in database: 2,882,417,764
+  Number of sequences in database:  44,704
+
+
+
+Matrix: blastn matrix 1 -3
+Gap Penalties: Existence: 5, Extension: 2

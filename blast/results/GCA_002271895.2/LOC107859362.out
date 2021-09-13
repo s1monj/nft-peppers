@@ -1,0 +1,254 @@
+BLASTN 2.12.0+
+
+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro A.
+Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J.
+Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of
+protein database search programs", Nucleic Acids Res. 25:3389-3402.
+
+
+
+Database: datasets/ncbi_dataset/data/GCA_002271895.2/chr2.fna
+           1 sequences; 169,927,767 total letters
+
+
+
+Query= 
+Length=22
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+CM008432.1 Capsicum chinense isolate PI159236 chromosome 2, whole...  44.1    6e-05
+
+
+>CM008432.1 Capsicum chinense isolate PI159236 chromosome 2, whole genome 
+shotgun sequence
+Length=169927767
+
+ Score = 44.1 bits (22),  Expect = 6e-05
+ Identities = 22/22 (100%), Gaps = 0/22 (0%)
+ Strand=Plus/Minus
+
+Query  1          GGGAAGGGAAGAGAACCATAAA  22
+                  ||||||||||||||||||||||
+Sbjct  139351100  GGGAAGGGAAGAGAACCATAAA  139351079
+
+
+ Score = 30.2 bits (15),  Expect = 0.95
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Plus
+
+Query  1        GGGAAGGGAAGAGAA  15
+                |||||||||||||||
+Sbjct  3339954  GGGAAGGGAAGAGAA  3339968
+
+
+ Score = 30.2 bits (15),  Expect = 0.95
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Minus
+
+Query  1         GGGAAGGGAAGAGAA  15
+                 |||||||||||||||
+Sbjct  63305902  GGGAAGGGAAGAGAA  63305888
+
+
+ Score = 30.2 bits (15),  Expect = 0.95
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Plus
+
+Query  5         AGGGAAGAGAACCAT  19
+                 |||||||||||||||
+Sbjct  86761587  AGGGAAGAGAACCAT  86761601
+
+
+ Score = 30.2 bits (15),  Expect = 0.95
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Plus
+
+Query  1         GGGAAGGGAAGAGAA  15
+                 |||||||||||||||
+Sbjct  99794024  GGGAAGGGAAGAGAA  99794038
+
+
+ Score = 30.2 bits (15),  Expect = 0.95
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Minus
+
+Query  1          GGGAAGGGAAGAGAA  15
+                  |||||||||||||||
+Sbjct  108080340  GGGAAGGGAAGAGAA  108080326
+
+
+ Score = 30.2 bits (15),  Expect = 0.95
+ Identities = 18/19 (95%), Gaps = 0/19 (0%)
+ Strand=Plus/Plus
+
+Query  1          GGGAAGGGAAGAGAACCAT  19
+                  ||||| |||||||||||||
+Sbjct  119038529  GGGAATGGAAGAGAACCAT  119038547
+
+
+ Score = 30.2 bits (15),  Expect = 0.95
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Plus
+
+Query  5          AGGGAAGAGAACCAT  19
+                  |||||||||||||||
+Sbjct  124006911  AGGGAAGAGAACCAT  124006925
+
+
+ Score = 30.2 bits (15),  Expect = 0.95
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Plus
+
+Query  8          GAAGAGAACCATAAA  22
+                  |||||||||||||||
+Sbjct  135654333  GAAGAGAACCATAAA  135654347
+
+
+ Score = 30.2 bits (15),  Expect = 0.95
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Plus
+
+Query  8          GAAGAGAACCATAAA  22
+                  |||||||||||||||
+Sbjct  138362038  GAAGAGAACCATAAA  138362052
+
+
+ Score = 30.2 bits (15),  Expect = 0.95
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Plus
+
+Query  1          GGGAAGGGAAGAGAA  15
+                  |||||||||||||||
+Sbjct  155444311  GGGAAGGGAAGAGAA  155444325
+
+
+ Score = 28.2 bits (14),  Expect = 3.7
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Minus
+
+Query  9        AAGAGAACCATAAA  22
+                ||||||||||||||
+Sbjct  9681760  AAGAGAACCATAAA  9681747
+
+
+ Score = 28.2 bits (14),  Expect = 3.7
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Plus
+
+Query  3         GAAGGGAAGAGAAC  16
+                 ||||||||||||||
+Sbjct  10149281  GAAGGGAAGAGAAC  10149294
+
+
+ Score = 28.2 bits (14),  Expect = 3.7
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Minus
+
+Query  1         GGGAAGGGAAGAGA  14
+                 ||||||||||||||
+Sbjct  19691751  GGGAAGGGAAGAGA  19691738
+
+
+ Score = 28.2 bits (14),  Expect = 3.7
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Plus
+
+Query  4         AAGGGAAGAGAACC  17
+                 ||||||||||||||
+Sbjct  21569352  AAGGGAAGAGAACC  21569365
+
+
+ Score = 28.2 bits (14),  Expect = 3.7
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Plus
+
+Query  3         GAAGGGAAGAGAAC  16
+                 ||||||||||||||
+Sbjct  50452679  GAAGGGAAGAGAAC  50452692
+
+
+ Score = 28.2 bits (14),  Expect = 3.7
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Plus
+
+Query  5         AGGGAAGAGAACCA  18
+                 ||||||||||||||
+Sbjct  83578987  AGGGAAGAGAACCA  83579000
+
+
+ Score = 28.2 bits (14),  Expect = 3.7
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Minus
+
+Query  9         AAGAGAACCATAAA  22
+                 ||||||||||||||
+Sbjct  84188096  AAGAGAACCATAAA  84188083
+
+
+ Score = 28.2 bits (14),  Expect = 3.7
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Minus
+
+Query  9          AAGAGAACCATAAA  22
+                  ||||||||||||||
+Sbjct  124569347  AAGAGAACCATAAA  124569334
+
+
+ Score = 28.2 bits (14),  Expect = 3.7
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Minus
+
+Query  9          AAGAGAACCATAAA  22
+                  ||||||||||||||
+Sbjct  131983122  AAGAGAACCATAAA  131983109
+
+
+ Score = 28.2 bits (14),  Expect = 3.7
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Plus
+
+Query  9          AAGAGAACCATAAA  22
+                  ||||||||||||||
+Sbjct  148721905  AAGAGAACCATAAA  148721918
+
+
+ Score = 28.2 bits (14),  Expect = 3.7
+ Identities = 17/18 (94%), Gaps = 0/18 (0%)
+ Strand=Plus/Plus
+
+Query  5          AGGGAAGAGAACCATAAA  22
+                  ||||||||||| ||||||
+Sbjct  154378062  AGGGAAGAGAAGCATAAA  154378079
+
+
+ Score = 28.2 bits (14),  Expect = 3.7
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Minus
+
+Query  9          AAGAGAACCATAAA  22
+                  ||||||||||||||
+Sbjct  169652838  AAGAGAACCATAAA  169652825
+
+
+
+Lambda      K        H
+    1.37    0.711     1.31 
+
+Gapped
+Lambda      K        H
+    1.37    0.711     1.31 
+
+Effective search space used: 1189494264
+
+
+  Database: datasets/ncbi_dataset/data/GCA_002271895.2/chr2.fna
+    Posted date:  Sep 10, 2021  3:03 PM
+  Number of letters in database: 169,927,767
+  Number of sequences in database:  1
+
+
+
+Matrix: blastn matrix 1 -3
+Gap Penalties: Existence: 5, Extension: 2

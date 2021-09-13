@@ -1,0 +1,1865 @@
+BLASTN 2.12.0+
+
+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro A.
+Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J.
+Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of
+protein database search programs", Nucleic Acids Res. 25:3389-3402.
+
+
+
+Database: datasets/ncbi_dataset/data/GCA_000512255.2/chr10.fna
+           1 sequences; 233,321,800 total letters
+
+
+
+Query= 
+Length=22
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+CM008464.1 Capsicum annuum cultivar CM334 chromosome 10, whole ge...  32.2    0.33 
+
+
+>CM008464.1 Capsicum annuum cultivar CM334 chromosome 10, whole genome shotgun 
+sequence
+Length=233321800
+
+ Score = 32.2 bits (16),  Expect = 0.33
+ Identities = 16/16 (100%), Gaps = 0/16 (0%)
+ Strand=Plus/Minus
+
+Query  6         GAAGAAGAAGGTGAAG  21
+                 ||||||||||||||||
+Sbjct  72501158  GAAGAAGAAGGTGAAG  72501143
+
+
+ Score = 32.2 bits (16),  Expect = 0.33
+ Identities = 16/16 (100%), Gaps = 0/16 (0%)
+ Strand=Plus/Minus
+
+Query  7          AAGAAGAAGGTGAAGG  22
+                  ||||||||||||||||
+Sbjct  153814015  AAGAAGAAGGTGAAGG  153814000
+
+
+ Score = 32.2 bits (16),  Expect = 0.33
+ Identities = 16/16 (100%), Gaps = 0/16 (0%)
+ Strand=Plus/Minus
+
+Query  1          GAAGGGAAGAAGAAGG  16
+                  ||||||||||||||||
+Sbjct  200276136  GAAGGGAAGAAGAAGG  200276121
+
+
+ Score = 32.2 bits (16),  Expect = 0.33
+ Identities = 16/16 (100%), Gaps = 0/16 (0%)
+ Strand=Plus/Plus
+
+Query  7         AAGAAGAAGGTGAAGG  22
+                 ||||||||||||||||
+Sbjct  79845537  AAGAAGAAGGTGAAGG  79845552
+
+
+ Score = 32.2 bits (16),  Expect = 0.33
+ Identities = 16/16 (100%), Gaps = 0/16 (0%)
+ Strand=Plus/Plus
+
+Query  1          GAAGGGAAGAAGAAGG  16
+                  ||||||||||||||||
+Sbjct  200822906  GAAGGGAAGAAGAAGG  200822921
+
+
+ Score = 30.2 bits (15),  Expect = 1.3
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Minus
+
+Query  2         AAGGGAAGAAGAAGG  16
+                 |||||||||||||||
+Sbjct  22572999  AAGGGAAGAAGAAGG  22572985
+
+
+ Score = 30.2 bits (15),  Expect = 1.3
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Minus
+
+Query  7         AAGAAGAAGGTGAAG  21
+                 |||||||||||||||
+Sbjct  51696463  AAGAAGAAGGTGAAG  51696449
+
+
+ Score = 30.2 bits (15),  Expect = 1.3
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Minus
+
+Query  7         AAGAAGAAGGTGAAG  21
+                 |||||||||||||||
+Sbjct  63016141  AAGAAGAAGGTGAAG  63016127
+
+
+ Score = 30.2 bits (15),  Expect = 1.3
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Minus
+
+Query  7         AAGAAGAAGGTGAAG  21
+                 |||||||||||||||
+Sbjct  65243667  AAGAAGAAGGTGAAG  65243653
+
+
+ Score = 30.2 bits (15),  Expect = 1.3
+ Identities = 18/19 (95%), Gaps = 0/19 (0%)
+ Strand=Plus/Minus
+
+Query  3         AGGGAAGAAGAAGGTGAAG  21
+                 |||||| ||||||||||||
+Sbjct  72098608  AGGGAAAAAGAAGGTGAAG  72098590
+
+
+ Score = 30.2 bits (15),  Expect = 1.3
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Minus
+
+Query  7         AAGAAGAAGGTGAAG  21
+                 |||||||||||||||
+Sbjct  83277858  AAGAAGAAGGTGAAG  83277844
+
+
+ Score = 30.2 bits (15),  Expect = 1.3
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Minus
+
+Query  2         AAGGGAAGAAGAAGG  16
+                 |||||||||||||||
+Sbjct  90298002  AAGGGAAGAAGAAGG  90297988
+
+
+ Score = 30.2 bits (15),  Expect = 1.3
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Minus
+
+Query  1          GAAGGGAAGAAGAAG  15
+                  |||||||||||||||
+Sbjct  105213373  GAAGGGAAGAAGAAG  105213359
+
+
+ Score = 30.2 bits (15),  Expect = 1.3
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Minus
+
+Query  2          AAGGGAAGAAGAAGG  16
+                  |||||||||||||||
+Sbjct  116370659  AAGGGAAGAAGAAGG  116370645
+
+
+ Score = 30.2 bits (15),  Expect = 1.3
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Minus
+
+Query  2          AAGGGAAGAAGAAGG  16
+                  |||||||||||||||
+Sbjct  136417911  AAGGGAAGAAGAAGG  136417897
+
+
+ Score = 30.2 bits (15),  Expect = 1.3
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Minus
+
+Query  7          AAGAAGAAGGTGAAG  21
+                  |||||||||||||||
+Sbjct  154213897  AAGAAGAAGGTGAAG  154213883
+
+
+ Score = 30.2 bits (15),  Expect = 1.3
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Minus
+
+Query  7          AAGAAGAAGGTGAAG  21
+                  |||||||||||||||
+Sbjct  158584050  AAGAAGAAGGTGAAG  158584036
+
+
+ Score = 30.2 bits (15),  Expect = 1.3
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Minus
+
+Query  2          AAGGGAAGAAGAAGG  16
+                  |||||||||||||||
+Sbjct  161623534  AAGGGAAGAAGAAGG  161623520
+
+
+ Score = 30.2 bits (15),  Expect = 1.3
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Minus
+
+Query  1          GAAGGGAAGAAGAAG  15
+                  |||||||||||||||
+Sbjct  172972273  GAAGGGAAGAAGAAG  172972259
+
+
+ Score = 30.2 bits (15),  Expect = 1.3
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Minus
+
+Query  2          AAGGGAAGAAGAAGG  16
+                  |||||||||||||||
+Sbjct  176584090  AAGGGAAGAAGAAGG  176584076
+
+
+ Score = 30.2 bits (15),  Expect = 1.3
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Minus
+
+Query  1          GAAGGGAAGAAGAAG  15
+                  |||||||||||||||
+Sbjct  182912450  GAAGGGAAGAAGAAG  182912436
+
+
+ Score = 30.2 bits (15),  Expect = 1.3
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Minus
+
+Query  1          GAAGGGAAGAAGAAG  15
+                  |||||||||||||||
+Sbjct  188041725  GAAGGGAAGAAGAAG  188041711
+
+
+ Score = 30.2 bits (15),  Expect = 1.3
+ Identities = 18/19 (95%), Gaps = 0/19 (0%)
+ Strand=Plus/Minus
+
+Query  2          AAGGGAAGAAGAAGGTGAA  20
+                  |||||||||||||| ||||
+Sbjct  196358257  AAGGGAAGAAGAAGATGAA  196358239
+
+
+ Score = 30.2 bits (15),  Expect = 1.3
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Minus
+
+Query  2          AAGGGAAGAAGAAGG  16
+                  |||||||||||||||
+Sbjct  197086286  AAGGGAAGAAGAAGG  197086272
+
+
+ Score = 30.2 bits (15),  Expect = 1.3
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Minus
+
+Query  7          AAGAAGAAGGTGAAG  21
+                  |||||||||||||||
+Sbjct  201272211  AAGAAGAAGGTGAAG  201272197
+
+
+ Score = 30.2 bits (15),  Expect = 1.3
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Minus
+
+Query  7          AAGAAGAAGGTGAAG  21
+                  |||||||||||||||
+Sbjct  204096237  AAGAAGAAGGTGAAG  204096223
+
+
+ Score = 30.2 bits (15),  Expect = 1.3
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Minus
+
+Query  2          AAGGGAAGAAGAAGG  16
+                  |||||||||||||||
+Sbjct  213005116  AAGGGAAGAAGAAGG  213005102
+
+
+ Score = 30.2 bits (15),  Expect = 1.3
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Minus
+
+Query  7          AAGAAGAAGGTGAAG  21
+                  |||||||||||||||
+Sbjct  215719882  AAGAAGAAGGTGAAG  215719868
+
+
+ Score = 30.2 bits (15),  Expect = 1.3
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Minus
+
+Query  6          GAAGAAGAAGGTGAA  20
+                  |||||||||||||||
+Sbjct  220445108  GAAGAAGAAGGTGAA  220445094
+
+
+ Score = 30.2 bits (15),  Expect = 1.3
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Minus
+
+Query  6          GAAGAAGAAGGTGAA  20
+                  |||||||||||||||
+Sbjct  220473622  GAAGAAGAAGGTGAA  220473608
+
+
+ Score = 30.2 bits (15),  Expect = 1.3
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Minus
+
+Query  6          GAAGAAGAAGGTGAA  20
+                  |||||||||||||||
+Sbjct  220510935  GAAGAAGAAGGTGAA  220510921
+
+
+ Score = 30.2 bits (15),  Expect = 1.3
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Minus
+
+Query  5          GGAAGAAGAAGGTGA  19
+                  |||||||||||||||
+Sbjct  226781924  GGAAGAAGAAGGTGA  226781910
+
+
+ Score = 30.2 bits (15),  Expect = 1.3
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Plus
+
+Query  2         AAGGGAAGAAGAAGG  16
+                 |||||||||||||||
+Sbjct  10252712  AAGGGAAGAAGAAGG  10252726
+
+
+ Score = 30.2 bits (15),  Expect = 1.3
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Plus
+
+Query  5         GGAAGAAGAAGGTGA  19
+                 |||||||||||||||
+Sbjct  17611105  GGAAGAAGAAGGTGA  17611119
+
+
+ Score = 30.2 bits (15),  Expect = 1.3
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Plus
+
+Query  6         GAAGAAGAAGGTGAA  20
+                 |||||||||||||||
+Sbjct  24538249  GAAGAAGAAGGTGAA  24538263
+
+
+ Score = 30.2 bits (15),  Expect = 1.3
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Plus
+
+Query  7          AAGAAGAAGGTGAAG  21
+                  |||||||||||||||
+Sbjct  101154185  AAGAAGAAGGTGAAG  101154199
+
+
+ Score = 30.2 bits (15),  Expect = 1.3
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Plus
+
+Query  6          GAAGAAGAAGGTGAA  20
+                  |||||||||||||||
+Sbjct  132887437  GAAGAAGAAGGTGAA  132887451
+
+
+ Score = 30.2 bits (15),  Expect = 1.3
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Plus
+
+Query  7          AAGAAGAAGGTGAAG  21
+                  |||||||||||||||
+Sbjct  133734272  AAGAAGAAGGTGAAG  133734286
+
+
+ Score = 30.2 bits (15),  Expect = 1.3
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Plus
+
+Query  6          GAAGAAGAAGGTGAA  20
+                  |||||||||||||||
+Sbjct  159609395  GAAGAAGAAGGTGAA  159609409
+
+
+ Score = 30.2 bits (15),  Expect = 1.3
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Plus
+
+Query  6          GAAGAAGAAGGTGAA  20
+                  |||||||||||||||
+Sbjct  170239722  GAAGAAGAAGGTGAA  170239736
+
+
+ Score = 30.2 bits (15),  Expect = 1.3
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Plus
+
+Query  7          AAGAAGAAGGTGAAG  21
+                  |||||||||||||||
+Sbjct  171924997  AAGAAGAAGGTGAAG  171925011
+
+
+ Score = 30.2 bits (15),  Expect = 1.3
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Plus
+
+Query  2          AAGGGAAGAAGAAGG  16
+                  |||||||||||||||
+Sbjct  176797210  AAGGGAAGAAGAAGG  176797224
+
+
+ Score = 30.2 bits (15),  Expect = 1.3
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Plus
+
+Query  2          AAGGGAAGAAGAAGG  16
+                  |||||||||||||||
+Sbjct  181988829  AAGGGAAGAAGAAGG  181988843
+
+
+ Score = 30.2 bits (15),  Expect = 1.3
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Plus
+
+Query  6          GAAGAAGAAGGTGAA  20
+                  |||||||||||||||
+Sbjct  187243961  GAAGAAGAAGGTGAA  187243975
+
+
+ Score = 30.2 bits (15),  Expect = 1.3
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Plus
+
+Query  2          AAGGGAAGAAGAAGG  16
+                  |||||||||||||||
+Sbjct  194477448  AAGGGAAGAAGAAGG  194477462
+
+
+ Score = 30.2 bits (15),  Expect = 1.3
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Plus
+
+Query  2          AAGGGAAGAAGAAGG  16
+                  |||||||||||||||
+Sbjct  200744379  AAGGGAAGAAGAAGG  200744393
+
+
+ Score = 30.2 bits (15),  Expect = 1.3
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Plus
+
+Query  1          GAAGGGAAGAAGAAG  15
+                  |||||||||||||||
+Sbjct  222125286  GAAGGGAAGAAGAAG  222125300
+
+
+ Score = 30.2 bits (15),  Expect = 1.3
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Plus
+
+Query  6          GAAGAAGAAGGTGAA  20
+                  |||||||||||||||
+Sbjct  223952519  GAAGAAGAAGGTGAA  223952533
+
+
+ Score = 30.2 bits (15),  Expect = 1.3
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Plus
+
+Query  2          AAGGGAAGAAGAAGG  16
+                  |||||||||||||||
+Sbjct  226785528  AAGGGAAGAAGAAGG  226785542
+
+
+ Score = 30.2 bits (15),  Expect = 1.3
+ Identities = 15/15 (100%), Gaps = 0/15 (0%)
+ Strand=Plus/Plus
+
+Query  2          AAGGGAAGAAGAAGG  16
+                  |||||||||||||||
+Sbjct  226785636  AAGGGAAGAAGAAGG  226785650
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Minus
+
+Query  8       AGAAGAAGGTGAAG  21
+               ||||||||||||||
+Sbjct  455640  AGAAGAAGGTGAAG  455627
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Minus
+
+Query  2        AAGGGAAGAAGAAG  15
+                ||||||||||||||
+Sbjct  5595008  AAGGGAAGAAGAAG  5594995
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Minus
+
+Query  3         AGGGAAGAAGAAGG  16
+                 ||||||||||||||
+Sbjct  11569544  AGGGAAGAAGAAGG  11569531
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Minus
+
+Query  8         AGAAGAAGGTGAAG  21
+                 ||||||||||||||
+Sbjct  19032984  AGAAGAAGGTGAAG  19032971
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Minus
+
+Query  7         AAGAAGAAGGTGAA  20
+                 ||||||||||||||
+Sbjct  21954908  AAGAAGAAGGTGAA  21954895
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Minus
+
+Query  8         AGAAGAAGGTGAAG  21
+                 ||||||||||||||
+Sbjct  22810728  AGAAGAAGGTGAAG  22810715
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Minus
+
+Query  9         GAAGAAGGTGAAGG  22
+                 ||||||||||||||
+Sbjct  24702578  GAAGAAGGTGAAGG  24702565
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Minus
+
+Query  9         GAAGAAGGTGAAGG  22
+                 ||||||||||||||
+Sbjct  25770902  GAAGAAGGTGAAGG  25770889
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Minus
+
+Query  8         AGAAGAAGGTGAAG  21
+                 ||||||||||||||
+Sbjct  25875745  AGAAGAAGGTGAAG  25875732
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Minus
+
+Query  6         GAAGAAGAAGGTGA  19
+                 ||||||||||||||
+Sbjct  26772630  GAAGAAGAAGGTGA  26772617
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Minus
+
+Query  6         GAAGAAGAAGGTGA  19
+                 ||||||||||||||
+Sbjct  32662384  GAAGAAGAAGGTGA  32662371
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Minus
+
+Query  1         GAAGGGAAGAAGAA  14
+                 ||||||||||||||
+Sbjct  36883165  GAAGGGAAGAAGAA  36883152
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Minus
+
+Query  7         AAGAAGAAGGTGAA  20
+                 ||||||||||||||
+Sbjct  38529234  AAGAAGAAGGTGAA  38529221
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Minus
+
+Query  8         AGAAGAAGGTGAAG  21
+                 ||||||||||||||
+Sbjct  43102586  AGAAGAAGGTGAAG  43102573
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Minus
+
+Query  8         AGAAGAAGGTGAAG  21
+                 ||||||||||||||
+Sbjct  47605139  AGAAGAAGGTGAAG  47605126
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Minus
+
+Query  5         GGAAGAAGAAGGTG  18
+                 ||||||||||||||
+Sbjct  51395380  GGAAGAAGAAGGTG  51395367
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Minus
+
+Query  9         GAAGAAGGTGAAGG  22
+                 ||||||||||||||
+Sbjct  54036558  GAAGAAGGTGAAGG  54036545
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Minus
+
+Query  8         AGAAGAAGGTGAAG  21
+                 ||||||||||||||
+Sbjct  58983979  AGAAGAAGGTGAAG  58983966
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Minus
+
+Query  8         AGAAGAAGGTGAAG  21
+                 ||||||||||||||
+Sbjct  59306803  AGAAGAAGGTGAAG  59306790
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Minus
+
+Query  8         AGAAGAAGGTGAAG  21
+                 ||||||||||||||
+Sbjct  61046577  AGAAGAAGGTGAAG  61046564
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Minus
+
+Query  8         AGAAGAAGGTGAAG  21
+                 ||||||||||||||
+Sbjct  67628572  AGAAGAAGGTGAAG  67628559
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Minus
+
+Query  8         AGAAGAAGGTGAAG  21
+                 ||||||||||||||
+Sbjct  70528459  AGAAGAAGGTGAAG  70528446
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Minus
+
+Query  7         AAGAAGAAGGTGAA  20
+                 ||||||||||||||
+Sbjct  76763674  AAGAAGAAGGTGAA  76763661
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Minus
+
+Query  8         AGAAGAAGGTGAAG  21
+                 ||||||||||||||
+Sbjct  78737959  AGAAGAAGGTGAAG  78737946
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Minus
+
+Query  7         AAGAAGAAGGTGAA  20
+                 ||||||||||||||
+Sbjct  80906071  AAGAAGAAGGTGAA  80906058
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Minus
+
+Query  9         GAAGAAGGTGAAGG  22
+                 ||||||||||||||
+Sbjct  82606303  GAAGAAGGTGAAGG  82606290
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Minus
+
+Query  9         GAAGAAGGTGAAGG  22
+                 ||||||||||||||
+Sbjct  85641395  GAAGAAGGTGAAGG  85641382
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Minus
+
+Query  8         AGAAGAAGGTGAAG  21
+                 ||||||||||||||
+Sbjct  86109440  AGAAGAAGGTGAAG  86109427
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Minus
+
+Query  9         GAAGAAGGTGAAGG  22
+                 ||||||||||||||
+Sbjct  91556063  GAAGAAGGTGAAGG  91556050
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Minus
+
+Query  7         AAGAAGAAGGTGAA  20
+                 ||||||||||||||
+Sbjct  97916406  AAGAAGAAGGTGAA  97916393
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Minus
+
+Query  8          AGAAGAAGGTGAAG  21
+                  ||||||||||||||
+Sbjct  102405683  AGAAGAAGGTGAAG  102405670
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Minus
+
+Query  8          AGAAGAAGGTGAAG  21
+                  ||||||||||||||
+Sbjct  103348934  AGAAGAAGGTGAAG  103348921
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Minus
+
+Query  9          GAAGAAGGTGAAGG  22
+                  ||||||||||||||
+Sbjct  103351049  GAAGAAGGTGAAGG  103351036
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Minus
+
+Query  9          GAAGAAGGTGAAGG  22
+                  ||||||||||||||
+Sbjct  108478617  GAAGAAGGTGAAGG  108478604
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Minus
+
+Query  9          GAAGAAGGTGAAGG  22
+                  ||||||||||||||
+Sbjct  111165044  GAAGAAGGTGAAGG  111165031
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Minus
+
+Query  8          AGAAGAAGGTGAAG  21
+                  ||||||||||||||
+Sbjct  117794703  AGAAGAAGGTGAAG  117794690
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Minus
+
+Query  9          GAAGAAGGTGAAGG  22
+                  ||||||||||||||
+Sbjct  120189251  GAAGAAGGTGAAGG  120189238
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Minus
+
+Query  9          GAAGAAGGTGAAGG  22
+                  ||||||||||||||
+Sbjct  120973102  GAAGAAGGTGAAGG  120973089
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Minus
+
+Query  8          AGAAGAAGGTGAAG  21
+                  ||||||||||||||
+Sbjct  132212227  AGAAGAAGGTGAAG  132212214
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Minus
+
+Query  8          AGAAGAAGGTGAAG  21
+                  ||||||||||||||
+Sbjct  132975786  AGAAGAAGGTGAAG  132975773
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Minus
+
+Query  7          AAGAAGAAGGTGAA  20
+                  ||||||||||||||
+Sbjct  133197684  AAGAAGAAGGTGAA  133197671
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Minus
+
+Query  7          AAGAAGAAGGTGAA  20
+                  ||||||||||||||
+Sbjct  137160836  AAGAAGAAGGTGAA  137160823
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Minus
+
+Query  9          GAAGAAGGTGAAGG  22
+                  ||||||||||||||
+Sbjct  142282446  GAAGAAGGTGAAGG  142282433
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Minus
+
+Query  8          AGAAGAAGGTGAAG  21
+                  ||||||||||||||
+Sbjct  145057355  AGAAGAAGGTGAAG  145057342
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Minus
+
+Query  8          AGAAGAAGGTGAAG  21
+                  ||||||||||||||
+Sbjct  145339819  AGAAGAAGGTGAAG  145339806
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Minus
+
+Query  9          GAAGAAGGTGAAGG  22
+                  ||||||||||||||
+Sbjct  153580476  GAAGAAGGTGAAGG  153580463
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Minus
+
+Query  8          AGAAGAAGGTGAAG  21
+                  ||||||||||||||
+Sbjct  154142845  AGAAGAAGGTGAAG  154142832
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Minus
+
+Query  8          AGAAGAAGGTGAAG  21
+                  ||||||||||||||
+Sbjct  154809807  AGAAGAAGGTGAAG  154809794
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Minus
+
+Query  8          AGAAGAAGGTGAAG  21
+                  ||||||||||||||
+Sbjct  159873352  AGAAGAAGGTGAAG  159873339
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Minus
+
+Query  6          GAAGAAGAAGGTGA  19
+                  ||||||||||||||
+Sbjct  160490081  GAAGAAGAAGGTGA  160490068
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Minus
+
+Query  8          AGAAGAAGGTGAAG  21
+                  ||||||||||||||
+Sbjct  163187794  AGAAGAAGGTGAAG  163187781
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Minus
+
+Query  8          AGAAGAAGGTGAAG  21
+                  ||||||||||||||
+Sbjct  166606871  AGAAGAAGGTGAAG  166606858
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Minus
+
+Query  8          AGAAGAAGGTGAAG  21
+                  ||||||||||||||
+Sbjct  168735038  AGAAGAAGGTGAAG  168735025
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Minus
+
+Query  7          AAGAAGAAGGTGAA  20
+                  ||||||||||||||
+Sbjct  170682981  AAGAAGAAGGTGAA  170682968
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Minus
+
+Query  8          AGAAGAAGGTGAAG  21
+                  ||||||||||||||
+Sbjct  171898911  AGAAGAAGGTGAAG  171898898
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Minus
+
+Query  8          AGAAGAAGGTGAAG  21
+                  ||||||||||||||
+Sbjct  174333474  AGAAGAAGGTGAAG  174333461
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Minus
+
+Query  8          AGAAGAAGGTGAAG  21
+                  ||||||||||||||
+Sbjct  181190730  AGAAGAAGGTGAAG  181190717
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Minus
+
+Query  9          GAAGAAGGTGAAGG  22
+                  ||||||||||||||
+Sbjct  195003151  GAAGAAGGTGAAGG  195003138
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Minus
+
+Query  7          AAGAAGAAGGTGAA  20
+                  ||||||||||||||
+Sbjct  197368034  AAGAAGAAGGTGAA  197368021
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Minus
+
+Query  9          GAAGAAGGTGAAGG  22
+                  ||||||||||||||
+Sbjct  209081492  GAAGAAGGTGAAGG  209081479
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Minus
+
+Query  3          AGGGAAGAAGAAGG  16
+                  ||||||||||||||
+Sbjct  209432726  AGGGAAGAAGAAGG  209432713
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 17/18 (94%), Gaps = 0/18 (0%)
+ Strand=Plus/Minus
+
+Query  2          AAGGGAAGAAGAAGGTGA  19
+                  |||||| |||||||||||
+Sbjct  211487284  AAGGGATGAAGAAGGTGA  211487267
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Minus
+
+Query  6          GAAGAAGAAGGTGA  19
+                  ||||||||||||||
+Sbjct  214870423  GAAGAAGAAGGTGA  214870410
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Plus
+
+Query  8        AGAAGAAGGTGAAG  21
+                ||||||||||||||
+Sbjct  1917546  AGAAGAAGGTGAAG  1917559
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Plus
+
+Query  7        AAGAAGAAGGTGAA  20
+                ||||||||||||||
+Sbjct  4312934  AAGAAGAAGGTGAA  4312947
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Plus
+
+Query  7        AAGAAGAAGGTGAA  20
+                ||||||||||||||
+Sbjct  4323531  AAGAAGAAGGTGAA  4323544
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Plus
+
+Query  7        AAGAAGAAGGTGAA  20
+                ||||||||||||||
+Sbjct  4392545  AAGAAGAAGGTGAA  4392558
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Plus
+
+Query  1        GAAGGGAAGAAGAA  14
+                ||||||||||||||
+Sbjct  7395552  GAAGGGAAGAAGAA  7395565
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 20/22 (91%), Gaps = 0/22 (0%)
+ Strand=Plus/Plus
+
+Query  1        GAAGGGAAGAAGAAGGTGAAGG  22
+                ||||||||||| || |||||||
+Sbjct  8848686  GAAGGGAAGAAAAAAGTGAAGG  8848707
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 17/18 (94%), Gaps = 0/18 (0%)
+ Strand=Plus/Plus
+
+Query  3         AGGGAAGAAGAAGGTGAA  20
+                 ||||||||||||| ||||
+Sbjct  17456619  AGGGAAGAAGAAGATGAA  17456636
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Plus
+
+Query  7         AAGAAGAAGGTGAA  20
+                 ||||||||||||||
+Sbjct  27470532  AAGAAGAAGGTGAA  27470545
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Plus
+
+Query  9         GAAGAAGGTGAAGG  22
+                 ||||||||||||||
+Sbjct  29883527  GAAGAAGGTGAAGG  29883540
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Plus
+
+Query  8         AGAAGAAGGTGAAG  21
+                 ||||||||||||||
+Sbjct  32082128  AGAAGAAGGTGAAG  32082141
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Plus
+
+Query  9         GAAGAAGGTGAAGG  22
+                 ||||||||||||||
+Sbjct  40005675  GAAGAAGGTGAAGG  40005688
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Plus
+
+Query  8         AGAAGAAGGTGAAG  21
+                 ||||||||||||||
+Sbjct  41475905  AGAAGAAGGTGAAG  41475918
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Plus
+
+Query  1         GAAGGGAAGAAGAA  14
+                 ||||||||||||||
+Sbjct  42364403  GAAGGGAAGAAGAA  42364416
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Plus
+
+Query  9         GAAGAAGGTGAAGG  22
+                 ||||||||||||||
+Sbjct  50477981  GAAGAAGGTGAAGG  50477994
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Plus
+
+Query  9         GAAGAAGGTGAAGG  22
+                 ||||||||||||||
+Sbjct  50506198  GAAGAAGGTGAAGG  50506211
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Plus
+
+Query  8         AGAAGAAGGTGAAG  21
+                 ||||||||||||||
+Sbjct  53649551  AGAAGAAGGTGAAG  53649564
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Plus
+
+Query  8         AGAAGAAGGTGAAG  21
+                 ||||||||||||||
+Sbjct  54698394  AGAAGAAGGTGAAG  54698407
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Plus
+
+Query  8         AGAAGAAGGTGAAG  21
+                 ||||||||||||||
+Sbjct  55582300  AGAAGAAGGTGAAG  55582313
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Plus
+
+Query  8         AGAAGAAGGTGAAG  21
+                 ||||||||||||||
+Sbjct  57590956  AGAAGAAGGTGAAG  57590969
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Plus
+
+Query  8         AGAAGAAGGTGAAG  21
+                 ||||||||||||||
+Sbjct  60365410  AGAAGAAGGTGAAG  60365423
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Plus
+
+Query  7         AAGAAGAAGGTGAA  20
+                 ||||||||||||||
+Sbjct  61871820  AAGAAGAAGGTGAA  61871833
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Plus
+
+Query  7         AAGAAGAAGGTGAA  20
+                 ||||||||||||||
+Sbjct  61991098  AAGAAGAAGGTGAA  61991111
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Plus
+
+Query  6         GAAGAAGAAGGTGA  19
+                 ||||||||||||||
+Sbjct  65268132  GAAGAAGAAGGTGA  65268145
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Plus
+
+Query  2         AAGGGAAGAAGAAG  15
+                 ||||||||||||||
+Sbjct  66898077  AAGGGAAGAAGAAG  66898090
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Plus
+
+Query  8         AGAAGAAGGTGAAG  21
+                 ||||||||||||||
+Sbjct  68726854  AGAAGAAGGTGAAG  68726867
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Plus
+
+Query  9         GAAGAAGGTGAAGG  22
+                 ||||||||||||||
+Sbjct  68728094  GAAGAAGGTGAAGG  68728107
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Plus
+
+Query  9         GAAGAAGGTGAAGG  22
+                 ||||||||||||||
+Sbjct  69612453  GAAGAAGGTGAAGG  69612466
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Plus
+
+Query  9         GAAGAAGGTGAAGG  22
+                 ||||||||||||||
+Sbjct  72725577  GAAGAAGGTGAAGG  72725590
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Plus
+
+Query  9         GAAGAAGGTGAAGG  22
+                 ||||||||||||||
+Sbjct  76124529  GAAGAAGGTGAAGG  76124542
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Plus
+
+Query  9         GAAGAAGGTGAAGG  22
+                 ||||||||||||||
+Sbjct  76250522  GAAGAAGGTGAAGG  76250535
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Plus
+
+Query  8         AGAAGAAGGTGAAG  21
+                 ||||||||||||||
+Sbjct  81488170  AGAAGAAGGTGAAG  81488183
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Plus
+
+Query  8         AGAAGAAGGTGAAG  21
+                 ||||||||||||||
+Sbjct  82308546  AGAAGAAGGTGAAG  82308559
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Plus
+
+Query  8         AGAAGAAGGTGAAG  21
+                 ||||||||||||||
+Sbjct  82919221  AGAAGAAGGTGAAG  82919234
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Plus
+
+Query  6         GAAGAAGAAGGTGA  19
+                 ||||||||||||||
+Sbjct  84315435  GAAGAAGAAGGTGA  84315448
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Plus
+
+Query  8         AGAAGAAGGTGAAG  21
+                 ||||||||||||||
+Sbjct  84521034  AGAAGAAGGTGAAG  84521047
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Plus
+
+Query  6         GAAGAAGAAGGTGA  19
+                 ||||||||||||||
+Sbjct  90061421  GAAGAAGAAGGTGA  90061434
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Plus
+
+Query  8         AGAAGAAGGTGAAG  21
+                 ||||||||||||||
+Sbjct  92520465  AGAAGAAGGTGAAG  92520478
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Plus
+
+Query  8         AGAAGAAGGTGAAG  21
+                 ||||||||||||||
+Sbjct  94141217  AGAAGAAGGTGAAG  94141230
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Plus
+
+Query  8         AGAAGAAGGTGAAG  21
+                 ||||||||||||||
+Sbjct  95749009  AGAAGAAGGTGAAG  95749022
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Plus
+
+Query  9         GAAGAAGGTGAAGG  22
+                 ||||||||||||||
+Sbjct  96282525  GAAGAAGGTGAAGG  96282538
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Plus
+
+Query  9         GAAGAAGGTGAAGG  22
+                 ||||||||||||||
+Sbjct  97274246  GAAGAAGGTGAAGG  97274259
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Plus
+
+Query  8         AGAAGAAGGTGAAG  21
+                 ||||||||||||||
+Sbjct  97566604  AGAAGAAGGTGAAG  97566617
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Plus
+
+Query  8         AGAAGAAGGTGAAG  21
+                 ||||||||||||||
+Sbjct  98991873  AGAAGAAGGTGAAG  98991886
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Plus
+
+Query  8         AGAAGAAGGTGAAG  21
+                 ||||||||||||||
+Sbjct  99037557  AGAAGAAGGTGAAG  99037570
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Plus
+
+Query  8         AGAAGAAGGTGAAG  21
+                 ||||||||||||||
+Sbjct  99835724  AGAAGAAGGTGAAG  99835737
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Plus
+
+Query  2         AAGGGAAGAAGAAG  15
+                 ||||||||||||||
+Sbjct  99998437  AAGGGAAGAAGAAG  99998450
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Plus
+
+Query  9          GAAGAAGGTGAAGG  22
+                  ||||||||||||||
+Sbjct  107180999  GAAGAAGGTGAAGG  107181012
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Plus
+
+Query  8          AGAAGAAGGTGAAG  21
+                  ||||||||||||||
+Sbjct  111307289  AGAAGAAGGTGAAG  111307302
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Plus
+
+Query  9          GAAGAAGGTGAAGG  22
+                  ||||||||||||||
+Sbjct  111385956  GAAGAAGGTGAAGG  111385969
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Plus
+
+Query  8          AGAAGAAGGTGAAG  21
+                  ||||||||||||||
+Sbjct  112963909  AGAAGAAGGTGAAG  112963922
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 17/18 (94%), Gaps = 0/18 (0%)
+ Strand=Plus/Plus
+
+Query  3          AGGGAAGAAGAAGGTGAA  20
+                  |||| |||||||||||||
+Sbjct  115114354  AGGGGAGAAGAAGGTGAA  115114371
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Plus
+
+Query  9          GAAGAAGGTGAAGG  22
+                  ||||||||||||||
+Sbjct  116158537  GAAGAAGGTGAAGG  116158550
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Plus
+
+Query  9          GAAGAAGGTGAAGG  22
+                  ||||||||||||||
+Sbjct  121256591  GAAGAAGGTGAAGG  121256604
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Plus
+
+Query  2          AAGGGAAGAAGAAG  15
+                  ||||||||||||||
+Sbjct  124015024  AAGGGAAGAAGAAG  124015037
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Plus
+
+Query  8          AGAAGAAGGTGAAG  21
+                  ||||||||||||||
+Sbjct  126133473  AGAAGAAGGTGAAG  126133486
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Plus
+
+Query  8          AGAAGAAGGTGAAG  21
+                  ||||||||||||||
+Sbjct  126480689  AGAAGAAGGTGAAG  126480702
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Plus
+
+Query  9          GAAGAAGGTGAAGG  22
+                  ||||||||||||||
+Sbjct  126482185  GAAGAAGGTGAAGG  126482198
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Plus
+
+Query  7          AAGAAGAAGGTGAA  20
+                  ||||||||||||||
+Sbjct  130036040  AAGAAGAAGGTGAA  130036053
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Plus
+
+Query  4          GGGAAGAAGAAGGT  17
+                  ||||||||||||||
+Sbjct  130575448  GGGAAGAAGAAGGT  130575461
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Plus
+
+Query  7          AAGAAGAAGGTGAA  20
+                  ||||||||||||||
+Sbjct  131405286  AAGAAGAAGGTGAA  131405299
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Plus
+
+Query  8          AGAAGAAGGTGAAG  21
+                  ||||||||||||||
+Sbjct  132051816  AGAAGAAGGTGAAG  132051829
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Plus
+
+Query  2          AAGGGAAGAAGAAG  15
+                  ||||||||||||||
+Sbjct  134175266  AAGGGAAGAAGAAG  134175279
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Plus
+
+Query  8          AGAAGAAGGTGAAG  21
+                  ||||||||||||||
+Sbjct  136655719  AGAAGAAGGTGAAG  136655732
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Plus
+
+Query  8          AGAAGAAGGTGAAG  21
+                  ||||||||||||||
+Sbjct  140486264  AGAAGAAGGTGAAG  140486277
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Plus
+
+Query  8          AGAAGAAGGTGAAG  21
+                  ||||||||||||||
+Sbjct  143306785  AGAAGAAGGTGAAG  143306798
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Plus
+
+Query  9          GAAGAAGGTGAAGG  22
+                  ||||||||||||||
+Sbjct  145937339  GAAGAAGGTGAAGG  145937352
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Plus
+
+Query  9          GAAGAAGGTGAAGG  22
+                  ||||||||||||||
+Sbjct  147748227  GAAGAAGGTGAAGG  147748240
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Plus
+
+Query  6          GAAGAAGAAGGTGA  19
+                  ||||||||||||||
+Sbjct  148493364  GAAGAAGAAGGTGA  148493377
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Plus
+
+Query  7          AAGAAGAAGGTGAA  20
+                  ||||||||||||||
+Sbjct  149443158  AAGAAGAAGGTGAA  149443171
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Plus
+
+Query  1          GAAGGGAAGAAGAA  14
+                  ||||||||||||||
+Sbjct  151962653  GAAGGGAAGAAGAA  151962666
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Plus
+
+Query  8          AGAAGAAGGTGAAG  21
+                  ||||||||||||||
+Sbjct  153120902  AGAAGAAGGTGAAG  153120915
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Plus
+
+Query  9          GAAGAAGGTGAAGG  22
+                  ||||||||||||||
+Sbjct  155223282  GAAGAAGGTGAAGG  155223295
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Plus
+
+Query  8          AGAAGAAGGTGAAG  21
+                  ||||||||||||||
+Sbjct  164038311  AGAAGAAGGTGAAG  164038324
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Plus
+
+Query  8          AGAAGAAGGTGAAG  21
+                  ||||||||||||||
+Sbjct  171700619  AGAAGAAGGTGAAG  171700632
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Plus
+
+Query  9          GAAGAAGGTGAAGG  22
+                  ||||||||||||||
+Sbjct  172570344  GAAGAAGGTGAAGG  172570357
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Plus
+
+Query  7          AAGAAGAAGGTGAA  20
+                  ||||||||||||||
+Sbjct  173676082  AAGAAGAAGGTGAA  173676095
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Plus
+
+Query  7          AAGAAGAAGGTGAA  20
+                  ||||||||||||||
+Sbjct  173883136  AAGAAGAAGGTGAA  173883149
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Plus
+
+Query  2          AAGGGAAGAAGAAG  15
+                  ||||||||||||||
+Sbjct  176149122  AAGGGAAGAAGAAG  176149135
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Plus
+
+Query  7          AAGAAGAAGGTGAA  20
+                  ||||||||||||||
+Sbjct  178933212  AAGAAGAAGGTGAA  178933225
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Plus
+
+Query  2          AAGGGAAGAAGAAG  15
+                  ||||||||||||||
+Sbjct  188019471  AAGGGAAGAAGAAG  188019484
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Plus
+
+Query  2          AAGGGAAGAAGAAG  15
+                  ||||||||||||||
+Sbjct  188047418  AAGGGAAGAAGAAG  188047431
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Plus
+
+Query  7          AAGAAGAAGGTGAA  20
+                  ||||||||||||||
+Sbjct  190851921  AAGAAGAAGGTGAA  190851934
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Plus
+
+Query  7          AAGAAGAAGGTGAA  20
+                  ||||||||||||||
+Sbjct  201549793  AAGAAGAAGGTGAA  201549806
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Plus
+
+Query  7          AAGAAGAAGGTGAA  20
+                  ||||||||||||||
+Sbjct  203411650  AAGAAGAAGGTGAA  203411663
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Plus
+
+Query  8          AGAAGAAGGTGAAG  21
+                  ||||||||||||||
+Sbjct  205763000  AGAAGAAGGTGAAG  205763013
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Plus
+
+Query  6          GAAGAAGAAGGTGA  19
+                  ||||||||||||||
+Sbjct  206948218  GAAGAAGAAGGTGA  206948231
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Plus
+
+Query  3          AGGGAAGAAGAAGG  16
+                  ||||||||||||||
+Sbjct  207543939  AGGGAAGAAGAAGG  207543952
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Plus
+
+Query  7          AAGAAGAAGGTGAA  20
+                  ||||||||||||||
+Sbjct  207784367  AAGAAGAAGGTGAA  207784380
+
+
+ Score = 28.2 bits (14),  Expect = 5.1
+ Identities = 14/14 (100%), Gaps = 0/14 (0%)
+ Strand=Plus/Plus
+
+Query  2          AAGGGAAGAAGAAG  15
+                  ||||||||||||||
+Sbjct  215165661  AAGGGAAGAAGAAG  215165674
+
+
+
+Lambda      K        H
+    1.37    0.711     1.31 
+
+Gapped
+Lambda      K        H
+    1.37    0.711     1.31 
+
+Effective search space used: 1633252495
+
+
+  Database: datasets/ncbi_dataset/data/GCA_000512255.2/chr10.fna
+    Posted date:  Sep 10, 2021  3:02 PM
+  Number of letters in database: 233,321,800
+  Number of sequences in database:  1
+
+
+
+Matrix: blastn matrix 1 -3
+Gap Penalties: Existence: 5, Extension: 2
