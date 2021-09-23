@@ -32,3 +32,9 @@ LOC107845303 5346
 LOC107845304 15621
 LOC107845460 7778
 LOC107847473 8382
+
+This piece was generated using publicly available <a href="https://www.ncbi.nlm.nih.gov/assembly/GCF_000710875.1" target="_blank">genomic data</a>
+from a study of the <a href="https://www.diark.org/diark/species_list/Capsicum_annuum_cultivar_Zunla-1" target="_blank">Capcicum Annuum pepper</a> plant.
+The points around the circle represent the <a href="https://www.sciencedirect.com/science/article/pii/S0888754318305846" target="_blank">genomic regions</a>
+that play a role in the ripening of the pepper. The lines progressively change color as the pepper ripens over a 21 day period,
+beginning on the first day of every month. The illumination of specific lines depicts growth events among genes that determines the speed of the ripening process.
