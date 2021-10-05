@@ -1,0 +1,17 @@
+{
+  "token_id": 1003,
+  "name": "Capcicum chinense",
+  "description": "This orange pepper depiction is generated using publicly available [genomic data](https://www.ncbi.nlm.nih.gov/assembly/GCA_002271895.2) from a study of the [Capcicum chinense](https://www.diark.org/diark/species_list/Capsicum_chinense) plant. The lines progressively change color as the pepper ripens over a 26 day period, beginning on the first day of every month. The points around the circle represent the [genomic regions](https://www.sciencedirect.com/science/article/pii/S0888754318305846) that play a role in the ripening of the pepper, with the connecting lines grouping points by genomic feature type. The periodic illumination of specific lines portray growth events among genomic features that determine the speed of the ripening color change. Pepper 3 of 3.",
+  "image": "ipfs://QmYpZF5D95THTiF4gVuUuze46eA4SHjwWEZBvFXSn7GE2k/chinense-preview.png",
+  "background_color": "fcf5e5",
+  "external_url": "https://nicetotouch.eth.link/peppers",
+  "animation_url": "ipfs://QmYpZF5D95THTiF4gVuUuze46eA4SHjwWEZBvFXSn7GE2k/index.html?tokenId=1003",
+  "attributes": [
+    { "trait_type": "Species", "value": "Capsicum chinense" },
+    { "trait_type": "Farmer's Name", "value": "Orange Pepper" },
+    { "trait_type": "Birth Day-of-month", "value": "1st" },
+    { "trait_type": "Days to Ripen", "value": "26" },
+    { "trait_type": "Newborn Color", "value": "#49711c" },
+    { "trait_type": "Ripe Color", "value": "#ff8e00" }
+  ]
+}

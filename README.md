@@ -33,8 +33,35 @@ LOC107845304 15621
 LOC107845460 7778
 LOC107847473 8382
 
-This piece was generated using publicly available <a href="https://www.ncbi.nlm.nih.gov/assembly/GCF_000710875.1" target="_blank">genomic data</a>
-from a study of the <a href="https://www.diark.org/diark/species_list/Capsicum_annuum_cultivar_Zunla-1" target="_blank">Capcicum Annuum pepper</a> plant.
-The points around the circle represent the <a href="https://www.sciencedirect.com/science/article/pii/S0888754318305846" target="_blank">genomic regions</a>
-that play a role in the ripening of the pepper. The lines progressively change color as the pepper ripens over a 21 day period,
-beginning on the first day of every month. The illumination of specific lines depicts growth events among genes that determines the speed of the ripening process.
+This red pepper depiction is generated using publicly available [genomic data](https://www.ncbi.nlm.nih.gov/assembly/GCF_000710875.1)
+from a study of the [Capcicum annuum](https://www.diark.org/diark/species_list/Capsicum_annuum_cultivar_Zunla-1) plant.
+The lines progressively change color as the pepper ripens over a 21 day period, beginning on the first day of every month.
+The points around the circle represent the [genomic regions](https://www.sciencedirect.com/science/article/pii/S0888754318305846)
+that play a role in the ripening of the pepper, with the connecting lines grouping points by genomic feature type.
+The periodic illumination of specific lines portray growth events among genomic features that determine the speed of the ripening color change.
+Pepper 1 of 3.
+
+This yellow pepper depiction is generated using publicly available [genomic data](https://www.ncbi.nlm.nih.gov/assembly/GCA_002271885.2)
+from a study of the [Capsicum baccatum](https://www.diark.org/diark/species_list/Capsicum_baccatum) plant.
+The lines progressively change color as the pepper ripens over a 23 day period, beginning on the first day of every month.
+The points around the circle represent the [genomic regions](https://www.sciencedirect.com/science/article/pii/S0888754318305846)
+that play a role in the ripening of the pepper, with the connecting lines grouping points by genomic feature type.
+The periodic illumination of specific lines portray growth events among genomic features that determine the speed of the ripening color change.
+Pepper 2 of 3.
+
+This orange pepper depiction is generated using publicly available [genomic data](https://www.ncbi.nlm.nih.gov/assembly/GCA_002271895.2)
+from a study of the [Capcicum chinense](https://www.diark.org/diark/species_list/Capsicum_chinense) plant.
+The lines progressively change color as the pepper ripens over a 26 day period, beginning on the first day of every month.
+The points around the circle represent the [genomic regions](https://www.sciencedirect.com/science/article/pii/S0888754318305846)
+that play a role in the ripening of the pepper, with the connecting lines grouping points by genomic feature type.
+The periodic illumination of specific lines portray growth events among genomic features that determine the speed of the ripening color change.
+Pepper 3 of 3.
+
+This collection of pepper depictions is generated using publicly available genomic data from studies of the
+[Capcicum annuum](https://www.diark.org/diark/species_list/Capsicum_annuum_cultivar_Zunla-1),
+[Capsicum baccatum](https://www.diark.org/diark/species_list/Capsicum_baccatum) and
+[Capcicum chinense](https://www.diark.org/diark/species_list/Capsicum_chinense) pepper plants.
+The lines progressively change color as the pepper ripens over a growth period of up to 26 days, beginning on the first day of every month.
+The points around the circle represent the [genomic regions](https://www.sciencedirect.com/science/article/pii/S0888754318305846)
+that play a role in the ripening of the pepper, with the connecting lines grouping points by genomic feature type.
+The periodic illumination of specific lines portray growth events among genomic features that determine the speed of the ripening color change.

@@ -1,0 +1,17 @@
+{
+  "token_id": 1001,
+  "name": "Capcicum annuum",
+  "description": "This red pepper depiction is generated using publicly available [genomic data](https://www.ncbi.nlm.nih.gov/assembly/GCF_000710875.1) from a study of the [Capcicum annuum](https://www.diark.org/diark/species_list/Capsicum_annuum_cultivar_Zunla-1) plant. The lines progressively change color as the pepper ripens over a 21 day period, beginning on the first day of every month. The points around the circle represent the [genomic regions](https://www.sciencedirect.com/science/article/pii/S0888754318305846) that play a role in the ripening of the pepper, with the connecting lines grouping points by genomic feature type. The periodic illumination of specific lines portray growth events among genomic features that determine the speed of the ripening color change. Pepper 1 of 3.",
+  "image": "ipfs://QmYpZF5D95THTiF4gVuUuze46eA4SHjwWEZBvFXSn7GE2k/annuum-preview.png",
+  "background_color": "fcf5e5",
+  "external_url": "https://nicetotouch.eth.link/peppers",
+  "animation_url": "ipfs://QmYpZF5D95THTiF4gVuUuze46eA4SHjwWEZBvFXSn7GE2k/index.html?tokenId=1001",
+  "attributes": [
+    { "trait_type": "Species", "value": "Capsicum annuum" },
+    { "trait_type": "Farmer's Name", "value": "Red Pepper" },
+    { "trait_type": "Birth Day-of-month", "value": "1st" },
+    { "trait_type": "Days to Ripen", "value": "21" },
+    { "trait_type": "Newborn Color", "value": "#063813" },
+    { "trait_type": "Ripe Color", "value": "#fa4208" }
+  ]
+}

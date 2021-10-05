@@ -1,56 +1,68 @@
-
-var seqNum = 0;
+const TOKEN_ID_START = 1001;
 const TARGET_ID = "pepperPot";
 
-// static attributes
-const SPECIES = ["Capsicum Annuum", "Capsicum Baccatum", "Capsicum Chinense"];
+const SPECIES = ["Capsicum annuum", "Capsicum baccatum", "Capsicum chinense"];
 const FARMERS_NAME = ["Red Pepper", "Yellow Pepper", "Orange Pepper"];
 const BIRTHDAY_OF_MONTH = [1, 1, 1];
-const DAYS_TO_RIPEN = [20, 23, 26];
+const DAYS_TO_RIPEN = [21, 23, 26];
 const GROWTH_DENOMINATOR = [9012, 9188, 9766];
 const FRUIT_HEIGHT = [7.6, 5.1, 6.3];
 const NEWBORN_COLOR = ["#063813", "#2f4812", "#49711c"];
-const RIPE_COLOR = ["#fa4208", "#baba45", "#ff8e00"];
-const SKELETAL_COLOR = ["#aaa", "#ccc", "#ccc"];
+const RIPE_COLOR = ["#fa4208", "#f2f285", "#ff8e00"];
+const SKELETAL_COLOR = ["#aaa", "#999", "#ccc"];
 const SKELETAL_WIDTH = [1, 2, 2];
-const BGCOLOR = ["#fcf7ea", "#755310", "#fcf5e5"];
+const BGCOLOR = ["#fcf5e5", "#fcf5e5", "#fcf5e5"];
 
-var cyto1, cyto2, currentColor, currentSkeletalColor;
+var seqNum, tokenId, cyto1, cyto2, currentColor, currentSkeletalColor;
+var seqNum = 0;
 
 document.addEventListener("DOMContentLoaded", function () {
   
-  let seqNumParam = getParameterByName("seq");
-  if(seqNumParam){
-    seqNumParam = parseInt(seqNumParam);
-    if(seqNumParam && seqNumParam>=0 && seqNumParam<=2) seqNum = seqNumParam;
+  let tokenIdParam = getParameterByName("tokenId");
+  if(tokenIdParam){
+    tokenIdParam = parseInt(tokenIdParam);
+    if(tokenIdParam && tokenIdParam>=TOKEN_ID_START && tokenIdParam<=(TOKEN_ID_START+SPECIES.length-1)) seqNum = tokenIdParam;
   }
 
-  currentColor = RIPE_COLOR[seqNum];
-  currentSkeletalColor = NEWBORN_COLOR[seqNum];
+  if(!seqNum) seqNum = TOKEN_ID_START;
+  seqNum = seqNum-TOKEN_ID_START;
+  
+  setTimeout(function () {
+    window.document.dispatchEvent(new Event("DOMContentLoaded", {
+      bubbles: true,
+      cancelable: true
+    }));
+  }, 1000*60*60);
 
+  document.title = `${SPECIES[seqNum]} (${FARMERS_NAME[seqNum]})`;
   document.body.style.background = BGCOLOR[seqNum];
   var genomicData = [dataChinense, dataBaccatum, dataAnnuum];
 
-  let dayOfMonth = new Date().getDate();
+  let now = new Date();
+  let dayOfMonth = now.getDate();
   if(getParameterByName("day")) dayOfMonth = parseInt(getParameterByName("day"));
+
+  let hourOfDay = now.getHours();
+  if(getParameterByName("hour")) hourOfDay = parseInt(getParameterByName("hour"));
+  if(hourOfDay>23) hourOfDay = 23;
+  if(hourOfDay<1) hourOfDay = 1;
 
   currentColor = RIPE_COLOR[seqNum];
   currentSkeletalColor = NEWBORN_COLOR[seqNum];
 
   if (
     dayOfMonth >= BIRTHDAY_OF_MONTH[seqNum] &&
-    dayOfMonth <= BIRTHDAY_OF_MONTH[seqNum] + DAYS_TO_RIPEN[seqNum]
+    dayOfMonth < BIRTHDAY_OF_MONTH[seqNum] + DAYS_TO_RIPEN[seqNum]
   ) {
     var ripeningGradient = tinygradient(NEWBORN_COLOR[seqNum], RIPE_COLOR[seqNum]);
-    var ripeningColors = ripeningGradient.rgb(DAYS_TO_RIPEN[seqNum]);
-    currentColor = "#" + ripeningColors[dayOfMonth - 1].toHex();
+    var ripeningColors = ripeningGradient.rgb(DAYS_TO_RIPEN[seqNum]*24);
+    currentColor = "#" + ripeningColors[((dayOfMonth - 1)*24)+hourOfDay].toHex();
 
     var skeletalGradient = tinygradient(SKELETAL_COLOR[seqNum], NEWBORN_COLOR[seqNum]);
-    var skeletalColors = skeletalGradient.rgb(DAYS_TO_RIPEN[seqNum]);
-    currentSkeletalColor = "#" + skeletalColors[dayOfMonth - 1].toHex();
+    var skeletalColors = skeletalGradient.rgb(DAYS_TO_RIPEN[seqNum]*24);
+    currentSkeletalColor = "#" + skeletalColors[((dayOfMonth - 1)*24)+hourOfDay].toHex();
   }
 
-  // Build the stage
   const target = document.getElementById(TARGET_ID);
   const container = document.createElement("div");
   container.setAttribute("id", "container");
@@ -60,9 +72,6 @@ document.addEventListener("DOMContentLoaded", function () {
   container.style.display = "flex";
   container.style.flexFlow = "row nowrap";
   target.appendChild(container);
-
-  // Overlay without absolute positioning:
-  // https://stackoverflow.com/a/48877138/4338238
 
   const graph1 = document.createElement("div");
   graph1.setAttribute("id", "graph1");
@@ -87,7 +96,6 @@ document.addEventListener("DOMContentLoaded", function () {
   });
   container.appendChild(graph2);
 
-  // Display the graphs
   cyto1 = cytoscape({
     container: document.getElementById("graph1"),
     elements: genomicData[seqNum],
@@ -169,7 +177,6 @@ document.addEventListener("DOMContentLoaded", function () {
   cyto2.userZoomingEnabled(false);
   cyto2.boxSelectionEnabled(false);
   cyto2.autounselectify(true);
-
   cyto2.off("background.*");
   cyto2.off("style.*");
   cyto2.off("bounds.*");

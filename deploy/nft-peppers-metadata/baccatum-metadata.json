@@ -1,0 +1,17 @@
+{
+  "token_id": 1002,
+  "name": "Capcicum baccatum",
+  "description": "This yellow pepper depiction is generated using publicly available [genomic data](https://www.ncbi.nlm.nih.gov/assembly/GCA_002271885.2) from a study of the [Capsicum baccatum](https://www.diark.org/diark/species_list/Capsicum_baccatum) plant. The lines progressively change color as the pepper ripens over a 23 day period, beginning on the first day of every month. The points around the circle represent the [genomic regions](https://www.sciencedirect.com/science/article/pii/S0888754318305846) that play a role in the ripening of the pepper, with the connecting lines grouping points by genomic feature type. The periodic illumination of specific lines portray growth events among genomic features that determine the speed of the ripening color change. Pepper 2 of 3.",
+  "image": "ipfs://QmYpZF5D95THTiF4gVuUuze46eA4SHjwWEZBvFXSn7GE2k/baccatum-preview.png",
+  "background_color": "fcf5e5",
+  "external_url": "https://nicetotouch.eth.link/peppers",
+  "animation_url": "ipfs://QmYpZF5D95THTiF4gVuUuze46eA4SHjwWEZBvFXSn7GE2k/index.html?tokenId=1002",
+  "attributes": [
+    { "trait_type": "Species", "value": "Capsicum baccatum" },
+    { "trait_type": "Farmer's Name", "value": "Yellow Pepper" },
+    { "trait_type": "Birth Day-of-month", "value": "1st" },
+    { "trait_type": "Days to Ripen", "value": "23" },
+    { "trait_type": "Newborn Color", "value": "#2f4812" },
+    { "trait_type": "Ripe Color", "value": "#f2f285" }
+  ]
+}
