@@ -5,7 +5,7 @@
 This code was used to:
 1. Format and prepare publicly available genomic data for 3 pepper plants
 2. Create animated pepper depictions using [Cytoscape.js](https://github.com/cytoscape/cytoscape.js) and [Anime.js](https://github.com/juliangarnier/anime/)
-3. Deploy the animation index.htm files as NFTs on the Ethereum blockchain using a Solidity contract forked from [mondoir](https://github.com/mondoir/NFT-Smart-Contract)
+3. Deploy the animation index.html files as NFTs on the Ethereum blockchain using a Solidity contract forked from [mondoir](https://github.com/mondoir/NFT-Smart-Contract)
 
 ---
 
