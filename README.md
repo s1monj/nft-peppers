@@ -1,6 +1,6 @@
 # NFT Generative Peppers
 
-## Notes coming soon
+## currently tidying this up - will be properly written up soon
 
 All Genomes:
 https://www.ncbi.nlm.nih.gov/assembly/?term=Capsicum > Download Datasets > GFF3
