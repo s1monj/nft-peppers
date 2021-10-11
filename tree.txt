@@ -1,0 +1,534 @@
+.
+├── README.md
+├── blast
+│   ├── dbs
+│   │   ├── GCA_002271885.2
+│   │   │   ├── chr1.blast.ndb
+│   │   │   ├── chr1.blast.nhr
+│   │   │   ├── chr1.blast.nin
+│   │   │   ├── chr1.blast.nog
+│   │   │   ├── chr1.blast.nos
+│   │   │   ├── chr1.blast.not
+│   │   │   ├── chr1.blast.nsq
+│   │   │   ├── chr1.blast.ntf
+│   │   │   ├── chr1.blast.nto
+│   │   │   ├── chr10.blast.ndb
+│   │   │   ├── chr10.blast.nhr
+│   │   │   ├── chr10.blast.nin
+│   │   │   ├── chr10.blast.nog
+│   │   │   ├── chr10.blast.nos
+│   │   │   ├── chr10.blast.not
+│   │   │   ├── chr10.blast.nsq
+│   │   │   ├── chr10.blast.ntf
+│   │   │   ├── chr10.blast.nto
+│   │   │   ├── chr11.blast.ndb
+│   │   │   ├── chr11.blast.nhr
+│   │   │   ├── chr11.blast.nin
+│   │   │   ├── chr11.blast.nog
+│   │   │   ├── chr11.blast.nos
+│   │   │   ├── chr11.blast.not
+│   │   │   ├── chr11.blast.nsq
+│   │   │   ├── chr11.blast.ntf
+│   │   │   ├── chr11.blast.nto
+│   │   │   ├── chr12.blast.ndb
+│   │   │   ├── chr12.blast.nhr
+│   │   │   ├── chr12.blast.nin
+│   │   │   ├── chr12.blast.nog
+│   │   │   ├── chr12.blast.nos
+│   │   │   ├── chr12.blast.not
+│   │   │   ├── chr12.blast.nsq
+│   │   │   ├── chr12.blast.ntf
+│   │   │   ├── chr12.blast.nto
+│   │   │   ├── chr2.blast.ndb
+│   │   │   ├── chr2.blast.nhr
+│   │   │   ├── chr2.blast.nin
+│   │   │   ├── chr2.blast.nog
+│   │   │   ├── chr2.blast.nos
+│   │   │   ├── chr2.blast.not
+│   │   │   ├── chr2.blast.nsq
+│   │   │   ├── chr2.blast.ntf
+│   │   │   ├── chr2.blast.nto
+│   │   │   ├── chr3.blast.ndb
+│   │   │   ├── chr3.blast.nhr
+│   │   │   ├── chr3.blast.nin
+│   │   │   ├── chr3.blast.nog
+│   │   │   ├── chr3.blast.nos
+│   │   │   ├── chr3.blast.not
+│   │   │   ├── chr3.blast.nsq
+│   │   │   ├── chr3.blast.ntf
+│   │   │   ├── chr3.blast.nto
+│   │   │   ├── chr4.blast.ndb
+│   │   │   ├── chr4.blast.nhr
+│   │   │   ├── chr4.blast.nin
+│   │   │   ├── chr4.blast.nog
+│   │   │   ├── chr4.blast.nos
+│   │   │   ├── chr4.blast.not
+│   │   │   ├── chr4.blast.nsq
+│   │   │   ├── chr4.blast.ntf
+│   │   │   ├── chr4.blast.nto
+│   │   │   ├── chr5.blast.ndb
+│   │   │   ├── chr5.blast.nhr
+│   │   │   ├── chr5.blast.nin
+│   │   │   ├── chr5.blast.nog
+│   │   │   ├── chr5.blast.nos
+│   │   │   ├── chr5.blast.not
+│   │   │   ├── chr5.blast.nsq
+│   │   │   ├── chr5.blast.ntf
+│   │   │   ├── chr5.blast.nto
+│   │   │   ├── chr6.blast.ndb
+│   │   │   ├── chr6.blast.nhr
+│   │   │   ├── chr6.blast.nin
+│   │   │   ├── chr6.blast.nog
+│   │   │   ├── chr6.blast.nos
+│   │   │   ├── chr6.blast.not
+│   │   │   ├── chr6.blast.nsq
+│   │   │   ├── chr6.blast.ntf
+│   │   │   ├── chr6.blast.nto
+│   │   │   ├── chr7.blast.ndb
+│   │   │   ├── chr7.blast.nhr
+│   │   │   ├── chr7.blast.nin
+│   │   │   ├── chr7.blast.nog
+│   │   │   ├── chr7.blast.nos
+│   │   │   ├── chr7.blast.not
+│   │   │   ├── chr7.blast.nsq
+│   │   │   ├── chr7.blast.ntf
+│   │   │   ├── chr7.blast.nto
+│   │   │   ├── chr8.blast.ndb
+│   │   │   ├── chr8.blast.nhr
+│   │   │   ├── chr8.blast.nin
+│   │   │   ├── chr8.blast.nog
+│   │   │   ├── chr8.blast.nos
+│   │   │   ├── chr8.blast.not
+│   │   │   ├── chr8.blast.nsq
+│   │   │   ├── chr8.blast.ntf
+│   │   │   ├── chr8.blast.nto
+│   │   │   ├── chr9.blast.ndb
+│   │   │   ├── chr9.blast.nhr
+│   │   │   ├── chr9.blast.nin
+│   │   │   ├── chr9.blast.nog
+│   │   │   ├── chr9.blast.nos
+│   │   │   ├── chr9.blast.not
+│   │   │   ├── chr9.blast.nsq
+│   │   │   ├── chr9.blast.ntf
+│   │   │   └── chr9.blast.nto
+│   │   ├── GCA_002271895.2
+│   │   │   ├── chr1.blast.ndb
+│   │   │   ├── chr1.blast.nhr
+│   │   │   ├── chr1.blast.nin
+│   │   │   ├── chr1.blast.nog
+│   │   │   ├── chr1.blast.nos
+│   │   │   ├── chr1.blast.not
+│   │   │   ├── chr1.blast.nsq
+│   │   │   ├── chr1.blast.ntf
+│   │   │   ├── chr1.blast.nto
+│   │   │   ├── chr10.blast.ndb
+│   │   │   ├── chr10.blast.nhr
+│   │   │   ├── chr10.blast.nin
+│   │   │   ├── chr10.blast.nog
+│   │   │   ├── chr10.blast.nos
+│   │   │   ├── chr10.blast.not
+│   │   │   ├── chr10.blast.nsq
+│   │   │   ├── chr10.blast.ntf
+│   │   │   ├── chr10.blast.nto
+│   │   │   ├── chr11.blast.ndb
+│   │   │   ├── chr11.blast.nhr
+│   │   │   ├── chr11.blast.nin
+│   │   │   ├── chr11.blast.nog
+│   │   │   ├── chr11.blast.nos
+│   │   │   ├── chr11.blast.not
+│   │   │   ├── chr11.blast.nsq
+│   │   │   ├── chr11.blast.ntf
+│   │   │   ├── chr11.blast.nto
+│   │   │   ├── chr12.blast.ndb
+│   │   │   ├── chr12.blast.nhr
+│   │   │   ├── chr12.blast.nin
+│   │   │   ├── chr12.blast.nog
+│   │   │   ├── chr12.blast.nos
+│   │   │   ├── chr12.blast.not
+│   │   │   ├── chr12.blast.nsq
+│   │   │   ├── chr12.blast.ntf
+│   │   │   ├── chr12.blast.nto
+│   │   │   ├── chr2.blast.ndb
+│   │   │   ├── chr2.blast.nhr
+│   │   │   ├── chr2.blast.nin
+│   │   │   ├── chr2.blast.nog
+│   │   │   ├── chr2.blast.nos
+│   │   │   ├── chr2.blast.not
+│   │   │   ├── chr2.blast.nsq
+│   │   │   ├── chr2.blast.ntf
+│   │   │   ├── chr2.blast.nto
+│   │   │   ├── chr3.blast.ndb
+│   │   │   ├── chr3.blast.nhr
+│   │   │   ├── chr3.blast.nin
+│   │   │   ├── chr3.blast.nog
+│   │   │   ├── chr3.blast.nos
+│   │   │   ├── chr3.blast.not
+│   │   │   ├── chr3.blast.nsq
+│   │   │   ├── chr3.blast.ntf
+│   │   │   ├── chr3.blast.nto
+│   │   │   ├── chr4.blast.ndb
+│   │   │   ├── chr4.blast.nhr
+│   │   │   ├── chr4.blast.nin
+│   │   │   ├── chr4.blast.nog
+│   │   │   ├── chr4.blast.nos
+│   │   │   ├── chr4.blast.not
+│   │   │   ├── chr4.blast.nsq
+│   │   │   ├── chr4.blast.ntf
+│   │   │   ├── chr4.blast.nto
+│   │   │   ├── chr5.blast.ndb
+│   │   │   ├── chr5.blast.nhr
+│   │   │   ├── chr5.blast.nin
+│   │   │   ├── chr5.blast.nog
+│   │   │   ├── chr5.blast.nos
+│   │   │   ├── chr5.blast.not
+│   │   │   ├── chr5.blast.nsq
+│   │   │   ├── chr5.blast.ntf
+│   │   │   ├── chr5.blast.nto
+│   │   │   ├── chr6.blast.ndb
+│   │   │   ├── chr6.blast.nhr
+│   │   │   ├── chr6.blast.nin
+│   │   │   ├── chr6.blast.nog
+│   │   │   ├── chr6.blast.nos
+│   │   │   ├── chr6.blast.not
+│   │   │   ├── chr6.blast.nsq
+│   │   │   ├── chr6.blast.ntf
+│   │   │   ├── chr6.blast.nto
+│   │   │   ├── chr7.blast.ndb
+│   │   │   ├── chr7.blast.nhr
+│   │   │   ├── chr7.blast.nin
+│   │   │   ├── chr7.blast.nog
+│   │   │   ├── chr7.blast.nos
+│   │   │   ├── chr7.blast.not
+│   │   │   ├── chr7.blast.nsq
+│   │   │   ├── chr7.blast.ntf
+│   │   │   ├── chr7.blast.nto
+│   │   │   ├── chr8.blast.ndb
+│   │   │   ├── chr8.blast.nhr
+│   │   │   ├── chr8.blast.nin
+│   │   │   ├── chr8.blast.nog
+│   │   │   ├── chr8.blast.nos
+│   │   │   ├── chr8.blast.not
+│   │   │   ├── chr8.blast.nsq
+│   │   │   ├── chr8.blast.ntf
+│   │   │   ├── chr8.blast.nto
+│   │   │   ├── chr9.blast.ndb
+│   │   │   ├── chr9.blast.nhr
+│   │   │   ├── chr9.blast.nin
+│   │   │   ├── chr9.blast.nog
+│   │   │   ├── chr9.blast.nos
+│   │   │   ├── chr9.blast.not
+│   │   │   ├── chr9.blast.nsq
+│   │   │   ├── chr9.blast.ntf
+│   │   │   └── chr9.blast.nto
+│   │   └── GCF_000710875.1
+│   │       ├── chr1.blast.ndb
+│   │       ├── chr1.blast.nhr
+│   │       ├── chr1.blast.nin
+│   │       ├── chr1.blast.nog
+│   │       ├── chr1.blast.nos
+│   │       ├── chr1.blast.not
+│   │       ├── chr1.blast.nsq
+│   │       ├── chr1.blast.ntf
+│   │       ├── chr1.blast.nto
+│   │       ├── chr10.blast.ndb
+│   │       ├── chr10.blast.nhr
+│   │       ├── chr10.blast.nin
+│   │       ├── chr10.blast.nog
+│   │       ├── chr10.blast.nos
+│   │       ├── chr10.blast.not
+│   │       ├── chr10.blast.nsq
+│   │       ├── chr10.blast.ntf
+│   │       ├── chr10.blast.nto
+│   │       ├── chr11.blast.ndb
+│   │       ├── chr11.blast.nhr
+│   │       ├── chr11.blast.nin
+│   │       ├── chr11.blast.nog
+│   │       ├── chr11.blast.nos
+│   │       ├── chr11.blast.not
+│   │       ├── chr11.blast.nsq
+│   │       ├── chr11.blast.ntf
+│   │       ├── chr11.blast.nto
+│   │       ├── chr12.blast.ndb
+│   │       ├── chr12.blast.nhr
+│   │       ├── chr12.blast.nin
+│   │       ├── chr12.blast.nog
+│   │       ├── chr12.blast.nos
+│   │       ├── chr12.blast.not
+│   │       ├── chr12.blast.nsq
+│   │       ├── chr12.blast.ntf
+│   │       ├── chr12.blast.nto
+│   │       ├── chr2.blast.ndb
+│   │       ├── chr2.blast.nhr
+│   │       ├── chr2.blast.nin
+│   │       ├── chr2.blast.nog
+│   │       ├── chr2.blast.nos
+│   │       ├── chr2.blast.not
+│   │       ├── chr2.blast.nsq
+│   │       ├── chr2.blast.ntf
+│   │       ├── chr2.blast.nto
+│   │       ├── chr3.blast.ndb
+│   │       ├── chr3.blast.nhr
+│   │       ├── chr3.blast.nin
+│   │       ├── chr3.blast.nog
+│   │       ├── chr3.blast.nos
+│   │       ├── chr3.blast.not
+│   │       ├── chr3.blast.nsq
+│   │       ├── chr3.blast.ntf
+│   │       ├── chr3.blast.nto
+│   │       ├── chr4.blast.ndb
+│   │       ├── chr4.blast.nhr
+│   │       ├── chr4.blast.nin
+│   │       ├── chr4.blast.nog
+│   │       ├── chr4.blast.nos
+│   │       ├── chr4.blast.not
+│   │       ├── chr4.blast.nsq
+│   │       ├── chr4.blast.ntf
+│   │       ├── chr4.blast.nto
+│   │       ├── chr5.blast.ndb
+│   │       ├── chr5.blast.nhr
+│   │       ├── chr5.blast.nin
+│   │       ├── chr5.blast.nog
+│   │       ├── chr5.blast.nos
+│   │       ├── chr5.blast.not
+│   │       ├── chr5.blast.nsq
+│   │       ├── chr5.blast.ntf
+│   │       ├── chr5.blast.nto
+│   │       ├── chr6.blast.ndb
+│   │       ├── chr6.blast.nhr
+│   │       ├── chr6.blast.nin
+│   │       ├── chr6.blast.nog
+│   │       ├── chr6.blast.nos
+│   │       ├── chr6.blast.not
+│   │       ├── chr6.blast.nsq
+│   │       ├── chr6.blast.ntf
+│   │       ├── chr6.blast.nto
+│   │       ├── chr7.blast.ndb
+│   │       ├── chr7.blast.nhr
+│   │       ├── chr7.blast.nin
+│   │       ├── chr7.blast.nog
+│   │       ├── chr7.blast.nos
+│   │       ├── chr7.blast.not
+│   │       ├── chr7.blast.nsq
+│   │       ├── chr7.blast.ntf
+│   │       ├── chr7.blast.nto
+│   │       ├── chr8.blast.ndb
+│   │       ├── chr8.blast.nhr
+│   │       ├── chr8.blast.nin
+│   │       ├── chr8.blast.nog
+│   │       ├── chr8.blast.nos
+│   │       ├── chr8.blast.not
+│   │       ├── chr8.blast.nsq
+│   │       ├── chr8.blast.ntf
+│   │       ├── chr8.blast.nto
+│   │       ├── chr9.blast.ndb
+│   │       ├── chr9.blast.nhr
+│   │       ├── chr9.blast.nin
+│   │       ├── chr9.blast.nog
+│   │       ├── chr9.blast.nos
+│   │       ├── chr9.blast.not
+│   │       ├── chr9.blast.nsq
+│   │       ├── chr9.blast.ntf
+│   │       └── chr9.blast.nto
+│   ├── locs
+│   │   ├── GCA_002271885.2
+│   │   ├── GCA_002271895.2
+│   │   └── GCF_000710875.1
+│   ├── reports
+│   │   ├── GCA_002271885.2
+│   │   ├── GCA_002271895.2
+│   │   └── GCF_000710875.1
+│   └── results
+│       ├── GCA_002271885.2
+│       │   ├── LOC107839289.out
+│       │   ├── LOC107843860.out
+│       │   ├── LOC107845303.out
+│       │   ├── LOC107845304.out
+│       │   ├── LOC107845460.out
+│       │   ├── LOC107847473.out
+│       │   ├── LOC107859362.out
+│       │   ├── LOC107864612.out
+│       │   ├── LOC107866321.out
+│       │   ├── LOC107873245.out
+│       │   └── LOC107878477.out
+│       ├── GCA_002271895.2
+│       │   ├── LOC107839289.out
+│       │   ├── LOC107843860.out
+│       │   ├── LOC107845303.out
+│       │   ├── LOC107845304.out
+│       │   ├── LOC107845460.out
+│       │   ├── LOC107847473.out
+│       │   ├── LOC107859362.out
+│       │   ├── LOC107864612.out
+│       │   ├── LOC107866321.out
+│       │   ├── LOC107873245.out
+│       │   └── LOC107878477.out
+│       └── GCF_000710875.1
+│           ├── LOC107839289.out
+│           ├── LOC107843860.out
+│           ├── LOC107845303.out
+│           ├── LOC107845304.out
+│           ├── LOC107845460.out
+│           ├── LOC107847473.out
+│           ├── LOC107859362.out
+│           ├── LOC107864612.out
+│           ├── LOC107866321.out
+│           ├── LOC107873245.out
+│           └── LOC107878477.out
+├── datasets
+│   └── ncbi_dataset
+│       └── data
+│           ├── GCA_002271885.2
+│           │   ├── chr1.fna
+│           │   ├── chr10.fna
+│           │   ├── chr11.fna
+│           │   ├── chr12.fna
+│           │   ├── chr2.fna
+│           │   ├── chr3.fna
+│           │   ├── chr4.fna
+│           │   ├── chr5.fna
+│           │   ├── chr6.fna
+│           │   ├── chr7.fna
+│           │   ├── chr8.fna
+│           │   ├── chr9.fna
+│           │   ├── exons.gff
+│           │   ├── genomic.gff
+│           │   ├── sequence_report.jsonl
+│           │   └── unplaced.scaf.fna
+│           ├── GCA_002271895.2
+│           │   ├── chr1.fna
+│           │   ├── chr10.fna
+│           │   ├── chr11.fna
+│           │   ├── chr12.fna
+│           │   ├── chr2.fna
+│           │   ├── chr3.fna
+│           │   ├── chr4.fna
+│           │   ├── chr5.fna
+│           │   ├── chr6.fna
+│           │   ├── chr7.fna
+│           │   ├── chr8.fna
+│           │   ├── chr9.fna
+│           │   ├── exons.gff
+│           │   ├── genomic.gff
+│           │   ├── sequence_report.jsonl
+│           │   └── unplaced.scaf.fna
+│           └── GCF_000710875.1
+│               ├── chr1.fna
+│               ├── chr10.fna
+│               ├── chr11.fna
+│               ├── chr12.fna
+│               ├── chr2.fna
+│               ├── chr3.fna
+│               ├── chr4.fna
+│               ├── chr5.fna
+│               ├── chr6.fna
+│               ├── chr7.fna
+│               ├── chr8.fna
+│               ├── chr9.fna
+│               ├── chrMT.fna
+│               ├── chrPltd.fna
+│               ├── exons.gff
+│               ├── genomic.gff
+│               ├── sequence_report.jsonl
+│               └── unplaced.scaf.fna
+├── deploy
+│   ├── nft-peppers-metadata
+│   │   ├── annuum-metadata.json
+│   │   ├── baccatum-metadata.json
+│   │   └── chinense-metadata.json
+│   └── stills
+│       ├── annuum-preview.png
+│       ├── annuum.png
+│       ├── baccatum-preview.png
+│       ├── baccatum.png
+│       ├── chinense-preview.png
+│       └── chinense.png
+├── doc
+│   └── peppers-generative-art.png
+├── eth
+│   └── peppersContract.sol
+├── genes
+│   ├── LOC107839289.fsa
+│   ├── LOC107843860.fsa
+│   ├── LOC107845303.fsa
+│   ├── LOC107845304.fsa
+│   ├── LOC107845460.fsa
+│   ├── LOC107847473.fsa
+│   ├── LOC107859362.fsa
+│   ├── LOC107864612.fsa
+│   ├── LOC107866321.fsa
+│   ├── LOC107873245.fsa
+│   ├── LOC107878477.fsa
+│   └── length_lookup.txt
+├── graph
+│   ├── GCA_002271885.2-LOC107839289.txt
+│   ├── GCA_002271885.2-LOC107843860.txt
+│   ├── GCA_002271885.2-LOC107845303.txt
+│   ├── GCA_002271885.2-LOC107845304.txt
+│   ├── GCA_002271885.2-LOC107845460.txt
+│   ├── GCA_002271885.2-LOC107847473.txt
+│   ├── GCA_002271885.2-LOC107859362.txt
+│   ├── GCA_002271885.2-LOC107864612.txt
+│   ├── GCA_002271885.2-LOC107866321.txt
+│   ├── GCA_002271885.2-LOC107873245.txt
+│   ├── GCA_002271885.2-LOC107878477.txt
+│   ├── GCA_002271895.2-LOC107839289.txt
+│   ├── GCA_002271895.2-LOC107843860.txt
+│   ├── GCA_002271895.2-LOC107845303.txt
+│   ├── GCA_002271895.2-LOC107845304.txt
+│   ├── GCA_002271895.2-LOC107845460.txt
+│   ├── GCA_002271895.2-LOC107847473.txt
+│   ├── GCA_002271895.2-LOC107859362.txt
+│   ├── GCA_002271895.2-LOC107864612.txt
+│   ├── GCA_002271895.2-LOC107866321.txt
+│   ├── GCA_002271895.2-LOC107873245.txt
+│   ├── GCA_002271895.2-LOC107878477.txt
+│   ├── GCF_000710875.1-LOC107839289.txt
+│   ├── GCF_000710875.1-LOC107843860.txt
+│   ├── GCF_000710875.1-LOC107845303.txt
+│   ├── GCF_000710875.1-LOC107845304.txt
+│   ├── GCF_000710875.1-LOC107845460.txt
+│   ├── GCF_000710875.1-LOC107847473.txt
+│   ├── GCF_000710875.1-LOC107859362.txt
+│   ├── GCF_000710875.1-LOC107864612.txt
+│   ├── GCF_000710875.1-LOC107866321.txt
+│   ├── GCF_000710875.1-LOC107873245.txt
+│   ├── GCF_000710875.1-LOC107878477.txt
+│   ├── LOC107839289.txt
+│   ├── LOC107843860.txt
+│   ├── LOC107845303.txt
+│   ├── LOC107845304.txt
+│   ├── LOC107845460.txt
+│   ├── LOC107847473.txt
+│   ├── LOC107859362.txt
+│   ├── LOC107864612.txt
+│   ├── LOC107866321.txt
+│   ├── LOC107873245.txt
+│   └── LOC107878477.txt
+├── opensea
+│   ├── peppers-banner.png
+│   └── peppers-feature.png
+├── test
+│   ├── test_iframe_seq0.html
+│   ├── test_iframe_seq1.html
+│   └── test_iframe_seq2.html
+├── tree.txt
+├── web
+│   ├── animejs-3_2_1.min.js
+│   ├── annuum-preview.png
+│   ├── annuum.png
+│   ├── baccatum-preview.png
+│   ├── baccatum.png
+│   ├── chinense-preview.png
+│   ├── chinense.png
+│   ├── cytoscape-3_19_1.min.js
+│   ├── data_annuum.js
+│   ├── data_baccatum.js
+│   ├── data_chinense.js
+│   ├── favicon.ico
+│   ├── index.html
+│   ├── peppers.js
+│   ├── tinycolor-1_4_2.min.js
+│   └── tinygradient-1_1_5.min.js
+└── wrangling.bash
+
+27 directories, 504 files

@@ -1,5 +1,7 @@
 # NFT Generative Peppers
 
+![Peppers Preview](doc/peppers-generative-art.png)
+
 ## currently tidying this up - will be properly written up soon
 
 All Genomes:
